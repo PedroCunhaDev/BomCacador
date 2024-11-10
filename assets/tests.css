@@ -1,0 +1,274 @@
+* {
+  font-family: font-text;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#container-bar {
+  display: flex;
+  align-items: center;
+  width: 100%;
+
+  #progress-bar {
+    flex-grow: 1;
+    height: 100%;
+    min-height: 35px;
+    width: 100%;
+    background-color: rgb(208, 208, 208);
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    border-top: 1px solid black;
+    box-shadow: inset 0 0 3px black;
+
+    #progress {
+      height: 99%;
+      width: 0;
+      position: relative;
+      z-index: 1;
+      background-color: hsl(152, 65%, 37%);
+      transition: width 0.3s ease-out;
+      box-shadow: inset 0 0 1px black;
+    }
+
+    &.failed-message {
+      background-color: rgb(184, 2, 2);
+    }
+    &.passed-message {
+      background-color: rgb(34, 116, 34);
+    }
+  }
+  #finish-test {
+    font-size: 1.5em;
+    margin-left: auto;
+
+    border: 3px solid rgb(95, 95, 95);
+    background-color: rgb(125, 125, 125);
+    font-weight: bold;
+    color: white;
+    display: flex;
+    align-items: center;
+    img {
+      width: 0.9em;
+    }
+    &:hover {
+      background-color: rgb(110, 110, 110);
+    }
+  }
+}
+
+#form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  max-height: 1000px;
+
+  #navigation {
+    width: 100%;
+    min-height: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    button {
+      min-width: 30px;
+      flex: 1;
+      border: none;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      background-color: rgb(255, 255, 255);
+      font-weight: bold;
+      font-size: 100%;
+      color: rgb(64, 64, 64);
+      &:hover {
+        position: relative;
+        z-index: 2;
+        outline: 1px solid rgb(83, 83, 83);
+      }
+
+      &.selected {
+        background-color: rgb(62, 62, 62);
+        color: white;
+      }
+
+      &.red-num {
+        color: rgb(205, 35, 35);
+        &.selected {
+          color: white;
+          background-color: rgb(205, 35, 35);
+          text-shadow: 0 0 2px black;
+        }
+      }
+    }
+  }
+
+  .question-container {
+    width: 100vw;
+    padding-top: 1em;
+    .question {
+      width: 100vw;
+      margin: 0 auto;
+      max-width: 1000px;
+      font-size: 1.2em;
+      background-color: rgb(238, 238, 238);
+      color: black;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+
+      .question-image {
+        width: 100%;
+        min-height: 150px;
+        max-height: 400px;
+        background-color: white;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        box-shadow: inset 0 0px 3px black;
+      }
+
+      .question-hash {
+        text-align: center;
+        font-size: 15px;
+        font-weight: bolder;
+        border: 1px solid rgba(0, 0, 0, 0.3);
+        color: white;
+
+        &.wrong-hash {
+          background-color: rgb(184, 2, 2);
+        }
+        &:not(.wrong-hash) {
+          background-color: rgb(34, 116, 34);
+        }
+      }
+    }
+
+    .question-header-table {
+      width: 100%;
+      table-layout: fixed;
+      border-collapse: collapse;
+
+      .question-number,
+      .next-question {
+        width: 50px;
+        height: 100%;
+        background-color: rgb(90, 90, 90);
+        text-align: center;
+        font-weight: bolder;
+        font-size: 2em;
+        text-shadow: rgba(0, 0, 0, 0.6) 2px 1px 3px;
+        a {
+          width: 100%;
+          height: 100%;
+          color: white;
+          display: block;
+        }
+        &:hover {
+          background-color: rgb(110, 110, 110);
+        }
+      }
+
+      .question-number:hover {
+        content: "<";
+      }
+
+      .question-text {
+        /* Adjust as needed */
+        height: 100%;
+        background-color: rgb(202, 202, 202);
+        color: rgb(30, 30, 30);
+        font-weight: 600;
+        padding-left: 15px;
+      }
+    }
+
+    .answers {
+      margin-top: 10px;
+
+      .answer {
+        width: 100%;
+        table-layout: fixed;
+        border-collapse: collapse;
+        min-height: 50px;
+        font-size: 0.8em;
+        background-color: white;
+        color: black;
+        .letter {
+          width: 50px;
+          text-align: center;
+          margin-right: 15px;
+          background-color: rgb(34, 116, 34);
+          font-weight: bolder;
+          font-size: 2em;
+          color: white;
+          text-shadow: rgba(0, 0, 0, 0.6) 1px 1px 2px;
+        }
+
+        .text {
+          padding-left: 1em;
+        }
+      }
+
+      .selected {
+        background-color: rgb(37, 37, 37);
+        color: white;
+        .letter {
+          background-color: rgb(21, 78, 21);
+          color: white;
+        }
+      }
+      .correct {
+        background-color: rgb(44, 138, 42);
+        color: white;
+        font-weight: bold;
+      }
+
+      .answer:not(.selected, .correct, .incorrect):hover {
+        /* background-color: rgba(37, 37, 37, 0.1); */
+      }
+    }
+  }
+  #modal-result {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.faded {
+  animation: faded 0.5s ease;
+}
+@keyframes faded {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

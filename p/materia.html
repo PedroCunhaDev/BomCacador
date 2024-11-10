@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Bom Caçador</title>
+    <link rel="stylesheet" href="../assets/style.css" />
+    <link rel="stylesheet" href="../assets/tests.css" />
+    <link rel="stylesheet" href="../assets/materia.css" />
+  </head>
+  <body>
+    <div style="position:fixed" id="loader-wrapper">
+      <div class="loader"></div>
+    </div>
+    <div id="nav" style="overflow: hidden">
+      <a href="../index.html"><h1 class="logo">Bom Caçador</h1></a>
+      <div class="menu">
+        <a id="btnNewTest" title="Novo Teste" href="./test.html"> </a>
+        <a id="btnGoToTests" title="Matéria" href="./materia.html"> </a>
+        <a id="btnAccount" title="Conta" href="./conta.html"> </a>
+      </div>
+    </div>
+    <div id="themes-background">
+      <div id="themes-container">
+        <div id="themes-header">
+          <h3>&nbsp;Filtrar por:&nbsp;<span id="filter"></span></h3>
+          <img id="filter-icon" src="../assets/icons/filter.svg" />
+        </div>
+      </div>
+    </div>
+    <div id="wrapper">
+      <div id="search">
+        <input type="search" id="search-input" placeholder="Pesquisar..." maxlength="255">
+        <button id="submit-search" onclick="submitSearch()"></button>
+      </div>
+    </div>
+    <script src="./materia.js"></script>
+  </body>
+</html>

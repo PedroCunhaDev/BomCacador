@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no"
+    />
+    <title>Bom Caçador</title>
+    <link rel="stylesheet" href="./assets/style.css" />
+    <link rel="stylesheet" href="./assets/start.css" />
+    <link rel="stylesheet" href="./assets/odometer.css" />
+  </head>
+  <body id="bg">
+    <div id="nav">
+      <a href="#"><h1 class="logo">Bom Caçador</h1></a>
+      <div class="menu">
+        <a id="btnNewTest" title="Novo Teste" href="./p/test.html"> </a>
+        <a id="btnGoToTests" title="Matéria" href="./p/materia.html"> </a>
+        <a id="btnAccount" title="Conta" href="./p/conta.html"> </a>
+      </div>
+    </div>
+    <div id="wrapper">
+      <div id="inicio" class="start-container">
+        <div class="centered-box">
+          <h1 id="message">Testes para a Carta de Caçador</h1>
+          <a href="./p/test.html"><button>Novo Teste</button></a>
+          <a href="#mais" class="scroll-btn"
+            ><img width="30px" alt="v" src="./assets/icons/arrow-down.svg"
+          /></a>
+        </div>
+      </div>
+      <div id="mais">
+        <div class="container">
+          <h1 id="slogan"></h1>
+          <p>
+            O Bom Caçador é uma plataforma gratuita onde pode realizar testes
+            para a obtenção da carta de caçador com perguntas reais.
+          </p>
+        </div>
+        <div class="container">
+          <h1>Todas as <span id="odometer">000</span> perguntas</h1>
+          <p>
+            Organizadas numa biblioteca que pode consultar livremente,
+            juntamente com um simulador de testes para o preparar para o dia do
+            exame de caçador.
+          </p>
+        </div>
+        <div class="container">
+          <div class="info-icnf">
+            <h2>Saber Mais</h2>
+            <a target="_blank" href="https://www.icnf.pt/caca"
+              >ICNF - Área da Caça</a
+            >
+          </div>
+        </div>
+        <a href="#inicio" class="scroll-btn"
+          ><img width="30px" alt="v" src="./assets/icons/arrow-down.svg"
+        /></a>
+      </div>
+    </div>
+    <p class="pedro">&copy; ICNF</p>
+    <script src="./calcNavHeight.js"></script>
+    <script src="./odometer.js"></script>
+    <script src="./start.js"></script>
+  </body>
+</html>

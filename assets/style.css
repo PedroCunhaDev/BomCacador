@@ -1,0 +1,119 @@
+@font-face {
+  font-family: logo;
+  src: url(./libre_baskerville_bold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: display;
+  src: url("./Poppins-SemiBold.ttf");
+}
+@font-face {
+  font-family: font-text;
+  src: url("./Poppins-Light.ttf");
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+#nav {
+  background-color: rgba(0, 0, 0, 0.9);
+  display: flex;
+  width: 100vw;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em 0;
+  .logo {
+    margin: 0 0 0 1em;
+    text-align: center;
+    color: white;
+    font-family: logo;
+  }
+}
+@media all and (max-width: 450px) {
+  #nav {
+    flex-direction: column;
+
+    .logo {
+      margin: 0;
+    }
+  }
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 150px;
+  max-width: 85svw;
+}
+
+.menu a {
+  width: 30px;
+  aspect-ratio: 1 / 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  display: inline-block;
+}
+#btnNewTest {
+  background-image: url("./icons/edit.svg");
+}
+
+#btnGoToTests {
+  background-image: url("./icons/archive.svg");
+}
+#btnAccount {
+  background-image: url("./icons/person.svg");
+}
+.tooltip {
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 3;
+  top: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s;
+  white-space: nowrap;
+}
+
+.tooltip::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-5px);
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent #555 transparent;
+}
+
+.menu a:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.pedro {
+  font-family: font-text;
+  margin: 0;
+  color: rgba(125, 125, 125, 0.5);
+  font-size: 15px;
+  height: 10px;
+  position: fixed;
+  z-index: 2;
+  left: 3px;
+  bottom: 10px;
+}

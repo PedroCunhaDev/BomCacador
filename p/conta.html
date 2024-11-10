@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Bom Caçador</title>
+    <link rel="stylesheet" href="../assets/style.css" />
+    <link rel="stylesheet" href="../assets/tests.css" />
+    <link rel="stylesheet" href="../assets/conta.css" />
+  </head>
+  <body>
+    <div id="bg-img">
+      <div id="nav" style="overflow: hidden">
+        <a href="../index.html"><h1 class="logo">Bom Caçador</h1></a>
+        <div class="menu">
+          <a id="btnNewTest" title="Novo Teste" href="./test.html"> </a>
+          <a id="btnGoToTests" title="Matéria" href="./materia.html"> </a>
+          <a id="btnAccount" title="Conta" href="./conta.html"> </a>
+        </div>
+      </div>
+      <h1 id="header" style="text-align: center; color: white">Perfil de</h1>
+      <div id="wrapper">
+        <div id="log-answered" class="log-container">
+          <div class="details">
+            <h3 class="title"></h3>
+            <h2 class="numbers"></h2>
+            <button class="novas" onclick="specificTest('novas')">
+              Exame de Perguntas Novas
+            </button>
+          </div>
+          <div id="answeredQuestionsCircle" class="pie"></div>
+        </div>
+        <div id="log-correct" class="log-container">
+          <div class="details">
+            <h3 class="title"></h3>
+            <h2 class="numbers"></h2>
+            <button class="erradas" onclick="specificTest('erradas')">
+              Exame de perguntas erradas
+            </button>
+          </div>
+          <div id="correctAnswersCircle" class="pie"></div>
+        </div>
+        <button class="delete-data" onclick="deleteData()">APAGAR DADOS</button>
+      </div>
+
+      <!-- <div class="about">
+        <a target="_blank" href="https://www.icnf.pt"
+          ><img src="../assets/logo.svg" alt="ICNF"
+        /></a>
+      </div> -->
+    </div>
+    <script src="../assets/circularProgressBar.min.js"></script>
+    <script src="./conta.js"></script>
+  </body>
+</html>

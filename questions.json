@@ -1,0 +1,4574 @@
+[
+  {
+    "id": 1,
+    "area": 0,
+    "q": "Poderão ser dispensados da carta de caçador?",
+    "a1": "Os agentes das autoridades com competência na fiscalização da caça",
+    "a2": "Os membros do Governo, os Deputados à Assembleia da República e os funcionários do ICNF",
+    "a3": "Os estrangeiros não residentes em território português, desde que habilitados a caçarem no país da sua nacionalidade ou residência",
+    "c": 3
+  },
+  {
+    "id": 2,
+    "area": 0,
+    "q": "Para a obtenção da carta de caçador, além de outros requisitos, é ainda necessário:",
+    "a1": "Ser cidadão nacional",
+    "a2": "Ser residente em território nacional",
+    "a3": "Ter mais de 16 anos",
+    "c": 3
+  },
+  {
+    "id": 3,
+    "area": 0,
+    "q": "A carta de caçador pode ser renovada:",
+    "a1": "Nos 12 meses que antecedem o final da sua validade",
+    "a2": "Nos 18 meses que antecedem o final da sua validade",
+    "a3": "Nos 24 meses que antecedem o final da sua caducidade",
+    "c": 1
+  },
+  {
+    "id": 4,
+    "area": 0,
+    "q": "Quando o seu titular é condenado por crime de caça, a carta de caçador:",
+    "a1": "Deve ser corrigida",
+    "a2": "Caduca",
+    "a3": "Deve ser trocada",
+    "c": 2
+  },
+  {
+    "id": 5,
+    "area": 0,
+    "q": "Qual das frases está correta?",
+    "a1": "Os membros do corpo diplomático podem ser dispensados de licença de caça",
+    "a2": "A licença regional de caça autoriza o exercício da caça na área da região cinegética a que respeita",
+    "a3": "A licença regional de caça apenas é válida para algumas espécies",
+    "c": 2
+  },
+  {
+    "id": 6,
+    "area": 0,
+    "q": "A licença de cão de caça é exigida para cães:",
+    "a1": "Com mais de 4 meses de idade",
+    "a2": "Com mais de 12 meses de idade",
+    "a3": "Com mais de 6 meses de idade",
+    "c": 3
+  },
+  {
+    "id": 7,
+    "area": 0,
+    "q": "Um caçador que pretenda caçar só às narcejas numa única região cinegética deve ser titular de:",
+    "a1": "Licença para caçar aves aquáticas",
+    "a2": "Licença regional de caça ou licença nacional de caça",
+    "a3": "Licença regional de caça e licença de aves aquáticas",
+    "c": 2
+  },
+  {
+    "id": 8,
+    "area": 0,
+    "q": "Um caçador para exercer o ato venatório pode ser dispensado da licença de caça?",
+    "a1": "Não, nunca pode ser dispensado",
+    "a2": "Sim, se for estrangeiro, não residente em território nacional",
+    "a3": "Sim, se for membro do corpo diplomático acreditado em Portugal",
+    "c": 1
+  },
+  {
+    "id": 9,
+    "area": 0,
+    "q": "Indique quem está dispensado da licença de caça para caçar:",
+    "a1": "Os membros do corpo diplomático e consular acreditados em Portugal",
+    "a2": "Os estrangeiros não residentes em território português, desde que estejam habilitados a caçar no pais da sua nacionalidade ou residência",
+    "a3": "Ninguém",
+    "c": 3
+  },
+  {
+    "id": 10,
+    "area": 0,
+    "q": "Um caçador que pretenda caçar só coelhos numa única região cinegética deve ser titular de:",
+    "a1": "Licença para caçar aves aquáticas",
+    "a2": "Licença regional de caça ou licença nacional de caça",
+    "a3": "Licença regional de caça e licença de aves aquáticas",
+    "c": 2
+  },
+  {
+    "id": 11,
+    "area": 1,
+    "q": "Consideram-se terrenos cinegéticos aqueles onde:",
+    "a1": "É permitido o exercício da caça",
+    "a2": "As espécies cinegéticas vagueiam livremente",
+    "a3": "As espécies cinegéticas se reproduzem e alimentam",
+    "c": 1
+  },
+  {
+    "id": 12,
+    "area": 1,
+    "q": "Consideram-se terrenos não cinegéticos aqueles onde:",
+    "a1": "Não existem espécies cinegéticas",
+    "a2": "As espécies cinegéticas não se reproduzem nem se alimentam",
+    "a3": "É proibido o exercício da caça",
+    "c": 3
+  },
+  {
+    "id": 13,
+    "area": 1,
+    "q": "Consideram-se terrenos cinegéticos:",
+    "a1": "Aqueles onde é permitido o exercício da caça, incluindo as áreas de jurisdição marítima e as águas interiores",
+    "a2": "Aqueles onde não é permitido o exercício da caça",
+    "a3": "Os campos de treino de caça e as áreas de refúgio de caça",
+    "c": 1
+  },
+  {
+    "id": 14,
+    "area": 1,
+    "q": "Consideram-se terrenos não cinegéticos:",
+    "a1": "Aqueles onde é proibido o exercício da caça",
+    "a2": "As zonas de caça turísticas",
+    "a3": "As áreas de jurisdição marítima",
+    "c": 1
+  },
+  {
+    "id": 15,
+    "area": 1,
+    "q": "Consideram-se terrenos não cinegéticos:",
+    "a1": "As áreas de proteção",
+    "a2": "As zonas de caça nacionais",
+    "a3": "As áreas de jurisdição marítima",
+    "c": 1
+  },
+  {
+    "id": 16,
+    "area": 1,
+    "q": "Consideram-se terrenos não cinegéticos:",
+    "a1": "Apenas as áreas de refúgio de caça e os aparcamentos de gado",
+    "a2": "Apenas as áreas de não caça e os campos de treino de caça",
+    "a3": "Todos os terrenos onde é proibido o exercício da caça",
+    "c": 3
+  },
+  {
+    "id": 17,
+    "area": 1,
+    "q": "Qual das seguintes áreas é considerada como terreno cinegético?",
+    "a1": "Campo de treino de caça",
+    "a2": "Área de refúgio de caça",
+    "a3": "Zona de caça municipal",
+    "c": 3
+  },
+  {
+    "id": 18,
+    "area": 1,
+    "q": "Quais das seguintes áreas podem ser consideradas terrenos cinegéticos?",
+    "a1": "Campos de treino de caça",
+    "a2": "Áreas de jurisdição marítima",
+    "a3": "Áreas de proteção",
+    "c": 2
+  },
+  {
+    "id": 19,
+    "area": 1,
+    "q": "Os matilheiros são auxiliares do caçador que têm como função:",
+    "a1": "Procurar, perseguir e levantar espécies de caça menor com a ajuda de cães",
+    "a2": "Procurar, perseguir e levantar espécies de caça maior com a ajuda de cães",
+    "a3": "Procurar, perseguir e levantar espécies de caça maior sem a ajuda de cães",
+    "c": 2
+  },
+  {
+    "id": 20,
+    "area": 1,
+    "q": "Considera-se época venatória o período anual:",
+    "a1": "Que decorre entre o dia 1 de junho de cada ano e o dia 31 de maio do ano seguinte",
+    "a2": "Em que se pode praticar o exercício venatório",
+    "a3": "Que decorre entre o dia 15 de agosto e o último domingo do mês de fevereiro do ano seguinte",
+    "c": 1
+  },
+  {
+    "id": 21,
+    "area": 1,
+    "q": "Dos auxiliares de caça indicados há um que não pode perseguir a caça com auxílio de cães:",
+    "a1": "Batedores",
+    "a2": "Negaceiros",
+    "a3": "Matilheiros",
+    "c": 2
+  },
+  {
+    "id": 22,
+    "area": 1,
+    "q": "Época venatória é:",
+    "a1": "O período anual que decorre entre o dia 1 de junho de cada ano e o dia 31 de maio do ano seguinte",
+    "a2": "O intervalo de tempo em que cada uma das espécies pode ser caçada",
+    "a3": "O período estipulado no calendário venatório para o exercício da caça a espécies de caça menor",
+    "c": 1
+  },
+  {
+    "id": 23,
+    "area": 1,
+    "q": "A utilização do barco na caça aos patos:",
+    "a1": "É permitida desde que o barco esteja em movimento",
+    "a2": "É permitida só nas deslocações entre locais de espera e nas esperas",
+    "a3": "É permitida desde que se atire com o motor em movimento",
+    "c": 2
+  },
+  {
+    "id": 24,
+    "area": 1,
+    "q": "Qual dos seguintes grupos de espécies se pode caçar de barco?",
+    "a1": "Patos, galinha-d’água e galeirão",
+    "a2": "Patos, galinhola e galeirão",
+    "a3": "Patos, narcejas e galeirão",
+    "c": 1
+  },
+  {
+    "id": 25,
+    "area": 1,
+    "q": "Que infração comete um caçador que no mês de outubro, numa zona de caça utiliza dez cães na caça à perdiz pelo processo de salto?",
+    "a1": "Utiliza um número de cães superior ao permitido",
+    "a2": "Caça num mês em que não pode ser autorizada a caça a esta espécie",
+    "a3": "Utiliza um processo de caça proibido para a espécie no mês de outubro",
+    "c": 1
+  },
+  {
+    "id": 26,
+    "area": 1,
+    "q": "O período venatório de uma espécie cinegética é:",
+    "a1": "O intervalo de tempo em que pode ser caçada",
+    "a2": "O intervalo de tempo em que é válida uma licença de caça",
+    "a3": "O período que decorre entre 1 de junho e 31 de maio do ano seguinte",
+    "c": 1
+  },
+  {
+    "id": 27,
+    "area": 1,
+    "q": "Em terrenos cobertos de neve, a qual das seguintes espécies não é proibida a caça?",
+    "a1": "Coelho",
+    "a2": "Raposa",
+    "a3": "Javali",
+    "c": 3
+  },
+  {
+    "id": 28,
+    "area": 1,
+    "q": "A qual das seguintes espécies é permitido o uso de chamarizes na caça?",
+    "a1": "Tordos",
+    "a2": "Pombos",
+    "a3": "Patos",
+    "c": 3
+  },
+  {
+    "id": 29,
+    "area": 1,
+    "q": "Um caçador, pode caçar pelo processo de salto com o auxilio de 10 cães que espécies cinegéticas?",
+    "a1": "Raposa",
+    "a2": "Lebre",
+    "a3": "Coelho",
+    "c": 3
+  },
+  {
+    "id": 30,
+    "area": 1,
+    "q": "No continente, na caça ao coelho-bravo por processo diferente do de batida, cada caçador ou grupo de caçadores pode utilizar no máximo:",
+    "a1": "10 cães",
+    "a2": "15 cães e 2 cachorros",
+    "a3": "50 cães",
+    "c": 1
+  },
+  {
+    "id": 31,
+    "area": 1,
+    "q": "Qual o número máximo de cães que pode ser utilizado na caça à raposa a corricão?",
+    "a1": "50",
+    "a2": "100",
+    "a3": "Ilimitado",
+    "c": 1
+  },
+  {
+    "id": 32,
+    "area": 1,
+    "q": "Assinale a afirmação correta:",
+    "a1": "É proibido capturar crias ou ovos de qualquer espécie, cinegética ou não",
+    "a2": "É proibido caçar patos entre o nascer e o pôr-do-sol",
+    "a3": "É proibido caçar em terrenos cinegéticos não ordenados às quintas-feiras",
+    "c": 1
+  },
+  {
+    "id": 33,
+    "area": 1,
+    "q": "Como regra, o exercício da caça só é permitido entre o nascer e o pôr-do-sol, exceto:",
+    "a1": "Na caça aos patos, pelo processo de espera, quando exercida até 200 m dos planos de água",
+    "a2": "Na caça às espécies de caça maior, pelo processo de espera, que é autorizada em período de lua cheia",
+    "a3": "Na caça aos pombos, tordos e estorninho-malhado, que só é permitida até às 17 horas",
+    "c": 2
+  },
+  {
+    "id": 34,
+    "area": 1,
+    "q": "A caça de aproximação é um processo de caça autorizado para:",
+    "a1": "Espécies de caça maior",
+    "a2": "Espécies de caça menor",
+    "a3": "Aves aquáticas",
+    "c": 1
+  },
+  {
+    "id": 35,
+    "area": 1,
+    "q": "O uso de negaças é permitido na caça:",
+    "a1": "Aos pombos, aos patos, à pega-rabuda e à gralha-preta",
+    "a2": "Às narcejas e tarambola-dourada",
+    "a3": "Ao galeirão e galinha-d’água",
+    "c": 1
+  },
+  {
+    "id": 36,
+    "area": 1,
+    "q": "Durante o exercício da caça, o caçador pode ser ajudado por auxiliares que:",
+    "a1": "Não podem fazer parte da linha de caçadores",
+    "a2": "Não podem transportar munições",
+    "a3": "Não podem transportar armas de fogo, arco ou besta acondicionadas em estojo ou bolsa",
+    "c": 1
+  },
+  {
+    "id": 37,
+    "area": 1,
+    "q": "Na caça à lebre a corricão podem ser utilizados no máximo:",
+    "a1": "Dois cães de busca e dois cães galgos por cada lebre",
+    "a2": "Um cão de busca e três cães galgos por cada lebre",
+    "a3": "Três cães de busca e um cão galgo por cada lebre",
+    "c": 1
+  },
+  {
+    "id": 38,
+    "area": 1,
+    "q": "No exercício da caça, cada caçador pode utilizar, no máximo:",
+    "a1": "Três cães na caça à perdiz-vermelha",
+    "a2": "Dez cães na caça ao coelho-bravo, pelo processo de batida",
+    "a3": "Dois cães galgos e dois cães de busca a cada lebre, na caça à lebre a corricão",
+    "c": 3
+  },
+  {
+    "id": 39,
+    "area": 1,
+    "q": "O processo de caça em que o caçador se desloca para capturar determinado exemplar de caça maior, designa-se:",
+    "a1": "De salto",
+    "a2": "De batida",
+    "a3": "De aproximação",
+    "c": 3
+  },
+  {
+    "id": 40,
+    "area": 1,
+    "q": "O processo de caça em que o caçador aguarda as espécies levantadas por batedores, denomina-se:",
+    "a1": "De montaria",
+    "a2": "De batida",
+    "a3": "À espera",
+    "c": 2
+  },
+  {
+    "id": 41,
+    "area": 1,
+    "q": "Aparelhos que funcionem a pilhas para atrair as espécies cinegéticas:",
+    "a1": "Podem ser utilizados na caça aos patos",
+    "a2": "Podem ser utilizados no controle de predadores",
+    "a3": "Não podem ser utilizados na caça",
+    "c": 3
+  },
+  {
+    "id": 42,
+    "area": 1,
+    "q": "Aparelhos que funcionem a pilhas para atrair as espécies cinegéticas:",
+    "a1": "Podem ser utilizados na caça aos patos",
+    "a2": "Podem ser utilizados na caça aos tordos",
+    "a3": "Não podem ser utilizados na caça",
+    "c": 3
+  },
+  {
+    "id": 43,
+    "area": 1,
+    "q": "Considera-se período venatório, o intervalo de tempo:",
+    "a1": "Em que só se pode caçar aos coelhos, lebres e perdizes",
+    "a2": "Em que cada uma das espécies pode ser caçada",
+    "a3": "Em que só se pode caçar às espécies migradoras",
+    "c": 2
+  },
+  {
+    "id": 44,
+    "area": 1,
+    "q": "No processo de caça a corricão não é permitido utilizar:",
+    "a1": "Pau e cavalo",
+    "a2": "Cães de caça e cavalo",
+    "a3": "Armas de fogo",
+    "c": 3
+  },
+  {
+    "id": 45,
+    "area": 1,
+    "q": "Cada caçador pode abater por dia de caça:",
+    "a1": "50 coelhos.",
+    "a2": "Não tem limite.",
+    "a3": "O definido no calendário venatório anual.",
+    "c": 3
+  },
+  {
+    "id": 46,
+    "area": 1,
+    "q": "A utilização de chamarizes na caça:",
+    "a1": "É sempre proibida",
+    "a2": "É permitida na caça aos patos e tordos",
+    "a3": "É permitida na caça aos patos, à raposa, ao veado e ao corço",
+    "c": 3
+  },
+  {
+    "id": 47,
+    "area": 1,
+    "q": "A utilização do cavalo como meio de caça é permitida:",
+    "a1": "Só na caça à raposa a corricão",
+    "a2": "Na caça às espécies de caça maior, à raposa e à lebre e na caça de cetraria",
+    "a3": "Só na caça à lebre de cetraria",
+    "c": 2
+  },
+  {
+    "id": 48,
+    "area": 1,
+    "q": "No processo de caça a corricão não é permitido utilizar:",
+    "a1": "Pau e cavalo",
+    "a2": "Cães e cavalo",
+    "a3": "Armas de fogo",
+    "c": 3
+  },
+  {
+    "id": 49,
+    "area": 1,
+    "q": "Como meio de caça, o uso do pau só é permitido em que processos de caça?",
+    "a1": "Corricão e de salto",
+    "a2": "Batida e de salto",
+    "a3": "Montaria e de salto",
+    "c": 1
+  },
+  {
+    "id": 50,
+    "area": 1,
+    "q": "Qual das seguintes frases está correta:",
+    "a1": "A utilização de barco é permitida na caça às narcejas e galinholas",
+    "a2": "É permitido o uso de negaças às narcejas e tarambolas",
+    "a3": "Nas montarias não há limite de número de cães a utilizar",
+    "c": 3
+  },
+  {
+    "id": 51,
+    "area": 1,
+    "q": "O processo de caça em que as espécies cinegéticas são capturadas por ave de presa adestrada para esse fim, denomina-se:",
+    "a1": "Batida",
+    "a2": "Corricão",
+    "a3": "Cetraria",
+    "c": 3
+  },
+  {
+    "id": 52,
+    "area": 1,
+    "q": "Um caçador não pode utilizar arma de fogo quando pretende caçar pelo processo de:",
+    "a1": "Corricão",
+    "a2": "Montaria",
+    "a3": "Salto",
+    "c": 1
+  },
+  {
+    "id": 53,
+    "area": 1,
+    "q": "Indique qual das frases está correta:",
+    "a1": "É permitido caçar as espécies que constem do calendário venatório publicado anualmente",
+    "a2": "É permitido caçar todas as espécies classificadas como cinegéticas",
+    "a3": "É permitido caçar qualquer espécie que cause prejuízos na agricultura",
+    "c": 1
+  },
+  {
+    "id": 54,
+    "area": 1,
+    "q": "Em terrenos cinegéticos não ordenados, cada caçador pode ser acompanhado por:",
+    "a1": "Cinco auxiliares",
+    "a2": "Três auxiliares",
+    "a3": "Um auxiliar",
+    "c": 3
+  },
+  {
+    "id": 55,
+    "area": 1,
+    "q": "Os matilheiros são auxiliares do caçador que têm como função:",
+    "a1": "Procurar, perseguir e levantar espécies de caça menor com a ajuda de cães",
+    "a2": "Procurar, perseguir e levantar espécies de caça maior com a ajuda de cães",
+    "a3": "Procurar, perseguir e levantar espécies de caça maior sem a ajuda de cães",
+    "c": 2
+  },
+  {
+    "id": 56,
+    "area": 1,
+    "q": "Para terrenos cinegéticos não ordenados, qual das afirmações está correta?",
+    "a1": "É permitido caçar ao javali pelo processo de aproximação",
+    "a2": "Podem realizar-se batidas às raposas às quartas-feiras",
+    "a3": "A caça à raposa a corricão pode ser exercida às quartas-feiras e sábados",
+    "c": 3
+  },
+  {
+    "id": 57,
+    "area": 1,
+    "q": "Em terrenos cinegéticos não ordenados, os dias de caça permitidos para caçar com arma de fogo, são:",
+    "a1": "As quintas-feiras, sábados e domingos",
+    "a2": "As quintas-feiras, domingos e feriados nacionais obrigatórios",
+    "a3": "As quintas-feiras, domingos, feriados nacionais obrigatórios e feriados municipais",
+    "c": 2
+  },
+  {
+    "id": 58,
+    "area": 1,
+    "q": "Em terrenos cinegéticos ordenados, a caça a espécies de caça maior:",
+    "a1": "É permitida nos dias previstos nos respetivos planos de ordenamento cinegético ou exploração",
+    "a2": "Só é permitida em três dias da semana à escolha do concessionário",
+    "a3": "É permitida em qualquer dia da semana apenas nas zonas de caça turísticas",
+    "c": 1
+  },
+  {
+    "id": 59,
+    "area": 2,
+    "q": "Em termos alimentares, o coelho é:",
+    "a1": "Um pequeno carnívoro",
+    "a2": "Um pequeno omnívoro",
+    "a3": "Um pequeno herbívoro",
+    "c": 3
+  },
+  {
+    "id": 60,
+    "area": 2,
+    "q": "Quando em fuga, a corrida do coelho caracteriza-se por ser:",
+    "a1": "Retilínea",
+    "a2": "Em alongados ziguezagues",
+    "a3": "Em apertados ziguezagues",
+    "c": 3
+  },
+  {
+    "id": 61,
+    "area": 2,
+    "q": "O coelho vive preferencialmente em:",
+    "a1": "Zonas de mato abundante",
+    "a2": "Zonas de arvoredo muito denso",
+    "a3": "Zonas arenosas e húmidas",
+    "c": 1
+  },
+  {
+    "id": 62,
+    "area": 2,
+    "q": "A alimentação do coelho é constituída essencialmente por:",
+    "a1": "Raízes, caules e pequenos insetos",
+    "a2": "Plantas herbáceas, raízes, caules, grãos e cascas suculentas",
+    "a3": "Plantas herbáceas, raízes e pequenos batráquios",
+    "c": 2
+  },
+  {
+    "id": 63,
+    "area": 2,
+    "q": "O coelho é um animal de hábitos:",
+    "a1": "Noturnos e crepusculares",
+    "a2": "Essencialmente diurnos",
+    "a3": "Essencialmente noturnos",
+    "c": 1
+  },
+  {
+    "id": 64,
+    "area": 2,
+    "q": "Os coelhos vivem, normalmente em:",
+    "a1": "Colónias, com galerias extensas e muito ramificadas",
+    "a2": "Colónias, com galerias extensas não ramificadas",
+    "a3": "Tocas de habitação individuais",
+    "c": 1
+  },
+  {
+    "id": 65,
+    "area": 2,
+    "q": "As coelhas prenhes têm as ninhadas:",
+    "a1": "Numa ramificação profunda da toca de habitação",
+    "a2": "Numa toca especial afastada da colónia",
+    "a3": "Numa ramificação superficial da toca de habitação",
+    "c": 2
+  },
+  {
+    "id": 66,
+    "area": 2,
+    "q": "As tocas de reprodução dos coelhos são formadas por:",
+    "a1": "Uma galeria simples e profunda",
+    "a2": "Uma galeria complexa e profunda",
+    "a3": "Uma galeria simples e superficial",
+    "c": 1
+  },
+  {
+    "id": 67,
+    "area": 2,
+    "q": "As tocas de reprodução dos coelhos são construídas:",
+    "a1": "Pelas fêmeas",
+    "a2": "Por ambos os sexos",
+    "a3": "Só pelos machos",
+    "c": 1
+  },
+  {
+    "id": 68,
+    "area": 2,
+    "q": "As tocas de reprodução dos coelhos são constituídas por:",
+    "a1": "Uma única abertura, forrada com ervas e folhas secas",
+    "a2": "Uma única abertura, forrada com pelos da própria fêmea",
+    "a3": "Uma única abertura, forrada com ervas, folhas e cascas secas",
+    "c": 2
+  },
+  {
+    "id": 69,
+    "area": 2,
+    "q": "Ao fim de quanto tempo, as coelhas mudam os filhos para as tocas de habitação?",
+    "a1": "1 Semana",
+    "a2": "2 Semanas",
+    "a3": "3 Semanas",
+    "c": 3
+  },
+  {
+    "id": 70,
+    "area": 2,
+    "q": "O coelho-bravo está apto a reproduzir-se a partir da idade seguinte:",
+    "a1": "Quatro meses",
+    "a2": "Seis meses",
+    "a3": "Doze meses",
+    "c": 2
+  },
+  {
+    "id": 71,
+    "area": 2,
+    "q": "Em comprimento, as orelhas do coelho são:",
+    "a1": "Maiores que as da lebre",
+    "a2": "Maiores que o comprimento da sua cabeça",
+    "a3": "Menores que o comprimento da sua cabeça",
+    "c": 3
+  },
+  {
+    "id": 72,
+    "area": 2,
+    "q": "A época de reprodução mais intensa do coelho ocorre de:",
+    "a1": "Março a maio",
+    "a2": "Março a agosto",
+    "a3": "Durante todo o ano",
+    "c": 1
+  },
+  {
+    "id": 73,
+    "area": 2,
+    "q": "Nas coelhas, o período de gestação é de:",
+    "a1": "25 a 30 dias",
+    "a2": "27 a 30 dias",
+    "a3": "28 a 30 dias",
+    "c": 3
+  },
+  {
+    "id": 74,
+    "area": 2,
+    "q": "As coelhas têm, em média, quantas ninhadas por ano?",
+    "a1": "1 a 4",
+    "a2": "3 a 5",
+    "a3": "2 a 5",
+    "c": 2
+  },
+  {
+    "id": 75,
+    "area": 2,
+    "q": "Os láparos nascem:",
+    "a1": "Cegos, surdos e sem pelo",
+    "a2": "De olhos abertos e com pelo",
+    "a3": "Cegos, surdos e com pelo",
+    "c": 1
+  },
+  {
+    "id": 76,
+    "area": 2,
+    "q": "Ao nível das doenças epidémicas do coelho, qual das frases está correta?",
+    "a1": "Nos repovoamentos proceda ao seu controlo sanitário e vacinação",
+    "a2": "Pode esfolar os coelhos caçados no campo",
+    "a3": "Se esfolar os coelhos caçados dê as vísceras aos cães",
+    "c": 1
+  },
+  {
+    "id": 77,
+    "area": 2,
+    "q": "Ao nível das doenças epidémicas, qual das seguintes medidas pode contribuir para o ordenamento do coelho-bravo?",
+    "a1": "Queimar os coelhos vítimas de doenças",
+    "a2": "Não realizar a queima de restolhos",
+    "a3": "Construir tocas ou “morouços”",
+    "c": 1
+  },
+  {
+    "id": 78,
+    "area": 2,
+    "q": "O coelho pode viver até aos:",
+    "a1": "5 anos",
+    "a2": "10 anos",
+    "a3": "15 anos",
+    "c": 2
+  },
+  {
+    "id": 79,
+    "area": 2,
+    "q": "O coelho é atacado por uma doença contagiosa grave. Indique qual:",
+    "a1": "Coccidiose",
+    "a2": "Mixomatose",
+    "a3": "Brucelose",
+    "c": 2
+  },
+  {
+    "id": 80,
+    "area": 2,
+    "q": "Os coelhos abrem os olhos ao fim de:",
+    "a1": "5 dias",
+    "a2": "10 dias",
+    "a3": "15 dias",
+    "c": 2
+  },
+  {
+    "id": 81,
+    "area": 2,
+    "q": "O aparelho auditivo do coelho está completamente desenvolvido aos:",
+    "a1": "8 dias",
+    "a2": "10 dias",
+    "a3": "15 dias",
+    "c": 1
+  },
+  {
+    "id": 82,
+    "area": 2,
+    "q": "A mixomatose, doença que ataca os coelhos, é:",
+    "a1": "Transmissível ao homem",
+    "a2": "Não transmissível ao homem",
+    "a3": "Transmissível a outras espécies cinegéticas",
+    "c": 2
+  },
+  {
+    "id": 83,
+    "area": 2,
+    "q": "Aos coelhos recém-nascidos dá-se, vulgarmente, o nome de:",
+    "a1": "Láparos",
+    "a2": "Lebrachos",
+    "a3": "Listados",
+    "c": 1
+  },
+  {
+    "id": 84,
+    "area": 2,
+    "q": "Relativamente ao coelho-bravo indique a frase correta:",
+    "a1": "É uma espécie de distribuição restrita",
+    "a2": "É uma espécie pouco importante no equilíbrio ecológico do habitat mediterrânico",
+    "a3": "A mixomatose é uma doença que contribui para a diminuição das populações de coelho",
+    "c": 3
+  },
+  {
+    "id": 85,
+    "area": 2,
+    "q": "O coelho-bravo é uma espécie que vive:",
+    "a1": "Em zonas onde o mato é raro, preferindo terrenos húmidos e argilosos",
+    "a2": "Em zonas abertas sem mato, preferindo terrenos acidentados e rochosos",
+    "a3": "Em zonas onde o mato é abundante, preferindo terrenos secos e arenosos",
+    "c": 3
+  },
+  {
+    "id": 86,
+    "area": 2,
+    "q": "Onde há maior probabilidade de encontrar o coelho-bravo?",
+    "a1": "Em terrenos húmidos e barrentos",
+    "a2": "Em zonas onde o mato é abundante",
+    "a3": "Em zonas de pousios e terras cultivadas",
+    "c": 2
+  },
+  {
+    "id": 87,
+    "area": 2,
+    "q": "Qual das medidas pode contribuir positivamente para o ordenamento do coelho-bravo:",
+    "a1": "Realizar repovoamentos independentemente da origem dos animais",
+    "a2": "Construir tocas ou “morouços” em terrenos onde seja difícil escavar",
+    "a3": "Realizar repovoamentos com fêmeas de coelho-manso para aumentar a capacidade de reprodução",
+    "c": 2
+  },
+  {
+    "id": 88,
+    "area": 2,
+    "q": "Em comprimento, as orelhas da lebre são:",
+    "a1": "Menores que as do coelho",
+    "a2": "Maiores que o comprimento da sua cabeça",
+    "a3": "Menores que o comprimento da sua cabeça",
+    "c": 2
+  },
+  {
+    "id": 89,
+    "area": 2,
+    "q": "Uma das características da lebre é:",
+    "a1": "Possuir orelhas pequenas, brancas na extremidade",
+    "a2": "Possuir orelhas grandes, negras na extremidade",
+    "a3": "Possuir orelhas grandes e arredondadas, menores que o comprimento da cabeça",
+    "c": 2
+  },
+  {
+    "id": 90,
+    "area": 2,
+    "q": "Uma das características da lebre é:",
+    "a1": "Possuir membros posteriores maiores que os anteriores",
+    "a2": "Possuir membros anteriores maiores que os posteriores",
+    "a3": "Possuir tamanho semelhante ao do coelho",
+    "c": 1
+  },
+  {
+    "id": 91,
+    "area": 2,
+    "q": "O maior tamanho dos membros posteriores da lebre permite-lhe:",
+    "a1": "Adquirir boa aderência",
+    "a2": "Adquirir boa capacidade de fuga em ziguezague",
+    "a3": "Adquirir grande velocidade",
+    "c": 3
+  },
+  {
+    "id": 92,
+    "area": 2,
+    "q": "A lebre é, geralmente mais abundante:",
+    "a1": "Na Estremadura e a Sul do Tejo",
+    "a2": "Na Beira Interior e a Sul do Tejo",
+    "a3": "Na Beira Litoral e a Sul o Tejo",
+    "c": 2
+  },
+  {
+    "id": 93,
+    "area": 2,
+    "q": "A lebre prefere:",
+    "a1": "Pousios e terras cultivadas",
+    "a2": "Terrenos acidentados e pedregosos",
+    "a3": "Terrenos com grande densidade de coberto",
+    "c": 1
+  },
+  {
+    "id": 94,
+    "area": 2,
+    "q": "A lebre é uma espécie que:",
+    "a1": "Vive em tocas com galerias pouco ramificadas",
+    "a2": "Prefere terrenos com grande densidade de coberto.",
+    "a3": "Prefere terrenos planos, húmidos e pouco cobertos.",
+    "c": 3
+  },
+  {
+    "id": 95,
+    "area": 2,
+    "q": "A lebre é:",
+    "a1": "Uma espécie herbívora",
+    "a2": "Uma espécie carnívora",
+    "a3": "Uma espécie omnívora",
+    "c": 1
+  },
+  {
+    "id": 96,
+    "area": 2,
+    "q": "A lebre é:",
+    "a1": "Um animal solitário",
+    "a2": "Um animal que vive em grandes colónias",
+    "a3": "Um animal que vive aos casais",
+    "c": 1
+  },
+  {
+    "id": 97,
+    "area": 2,
+    "q": "Às lebres recém-nascidas dá-se, vulgarmente, o nome de:",
+    "a1": "Láparos",
+    "a2": "Lebrachos",
+    "a3": "Listados",
+    "c": 2
+  },
+  {
+    "id": 98,
+    "area": 2,
+    "q": "O período de gestação da lebre é de:",
+    "a1": "40 a 44 dias",
+    "a2": "40 a 42 dias",
+    "a3": "42 a 44 dias",
+    "c": 3
+  },
+  {
+    "id": 99,
+    "area": 2,
+    "q": "Os lebrachos nascem:",
+    "a1": "De olhos abertos e com pelo",
+    "a2": "Cegos, surdos e com pelo",
+    "a3": "De olhos fechados e com pelo",
+    "c": 1
+  },
+  {
+    "id": 100,
+    "area": 2,
+    "q": "Os lebrachos são amamentados até às:",
+    "a1": "2 semanas",
+    "a2": "3 semanas",
+    "a3": "4 semanas",
+    "c": 2
+  },
+  {
+    "id": 101,
+    "area": 2,
+    "q": "A lebre tem, normalmente, quantas ninhadas por ano?",
+    "a1": "1 a 5",
+    "a2": "2 a 4",
+    "a3": "1 a 3",
+    "c": 3
+  },
+  {
+    "id": 102,
+    "area": 2,
+    "q": "Nas lebres, cada ninhada é, normalmente, constituída por quantos lebrachos?",
+    "a1": "1 ou 2",
+    "a2": "2 a 3",
+    "a3": "2 a 4",
+    "c": 1
+  },
+  {
+    "id": 103,
+    "area": 2,
+    "q": "A lebre reconhece-se facilmente por:",
+    "a1": "Ter os membros da frente muito maiores que os de trás",
+    "a2": "Ter as orelhas grandes com a extremidade negra",
+    "a3": "Ter as orelhas pequenas e pontiagudas",
+    "c": 2
+  },
+  {
+    "id": 104,
+    "area": 2,
+    "q": "A lebre é uma espécie que prefere como habitat:",
+    "a1": "Matagais densos e fechados",
+    "a2": "Planícies abertas, cultivadas ou em pousio",
+    "a3": "Áreas acidentadas e pedregosas",
+    "c": 2
+  },
+  {
+    "id": 105,
+    "area": 2,
+    "q": "A raposa é:",
+    "a1": "Um animal solitário",
+    "a2": "Um animal que vive em grandes colónias",
+    "a3": "Um animal que vive aos casais",
+    "c": 1
+  },
+  {
+    "id": 106,
+    "area": 2,
+    "q": "A raposa é:",
+    "a1": "Um mamífero de médio porte",
+    "a2": "Um mamífero de grande porte",
+    "a3": "Um mamífero de pequeno porte",
+    "c": 1
+  },
+  {
+    "id": 107,
+    "area": 2,
+    "q": "Os machos da raposa, por vezes, podem distinguir-se das fêmeas por:",
+    "a1": "Apresentarem uma cabeça menos forte e mais afilada",
+    "a2": "Apresentarem uma cabeça mais forte e menos afilada",
+    "a3": "Apresentarem uma cabeça mais forte e mais afilada",
+    "c": 2
+  },
+  {
+    "id": 108,
+    "area": 2,
+    "q": "A pelagem da raposa, durante o inverno é:",
+    "a1": "Menos espesso e mais denso que no verão",
+    "a2": "Mais espesso e menos denso que no verão",
+    "a3": "Mais espesso e mais denso que no verão",
+    "c": 3
+  },
+  {
+    "id": 109,
+    "area": 2,
+    "q": "O cio da raposa ocorre geralmente em:",
+    "a1": "Janeiro",
+    "a2": "Fevereiro",
+    "a3": "Março",
+    "c": 1
+  },
+  {
+    "id": 110,
+    "area": 2,
+    "q": "O período de gestação da raposa tem a duração aproximada de:",
+    "a1": "40 a 50 dias",
+    "a2": "50 a 60 dias",
+    "a3": "60 a 70 dias",
+    "c": 2
+  },
+  {
+    "id": 111,
+    "area": 2,
+    "q": "Na raposa, cada ninhada tem em média:",
+    "a1": "1 a 3 crias",
+    "a2": "2 a 5 crias",
+    "a3": "3 a 6 crias",
+    "c": 3
+  },
+  {
+    "id": 112,
+    "area": 2,
+    "q": "As raposas podem ser vistas em grupo:",
+    "a1": "Durante todo o ano",
+    "a2": "Durante o período de inverno",
+    "a3": "Durante o cio das fêmeas",
+    "c": 3
+  },
+  {
+    "id": 113,
+    "area": 2,
+    "q": "O saca-rabos é um animal:",
+    "a1": "Que habita em locais com vegetação pouco densa",
+    "a2": "Solitário",
+    "a3": "Que tanto pode ser visto de dia como de noite",
+    "c": 3
+  },
+  {
+    "id": 114,
+    "area": 2,
+    "q": "O saca-rabos possui orelhas:",
+    "a1": "Grandes e arredondadas",
+    "a2": "Muito curtas e arredondadas",
+    "a3": "Muito curtas e afiladas",
+    "c": 2
+  },
+  {
+    "id": 115,
+    "area": 2,
+    "q": "O saca-rabos é:",
+    "a1": "Um carnívoro de médio porte",
+    "a2": "Um carnívoro de grande porte",
+    "a3": "Um carnívoro de pequeno porte",
+    "c": 1
+  },
+  {
+    "id": 116,
+    "area": 2,
+    "q": "O saca-rabos é um animal:",
+    "a1": "Solitário",
+    "a2": "Bastante sociável",
+    "a3": "Pouco sociável",
+    "c": 2
+  },
+  {
+    "id": 117,
+    "area": 2,
+    "q": "O saca-rabos é um animal que, durante as suas atividades de caça:",
+    "a1": "Se desloca em grupos",
+    "a2": "Se desloca aos casais",
+    "a3": "Se desloca sozinho",
+    "c": 1
+  },
+  {
+    "id": 118,
+    "area": 2,
+    "q": "O saca-rabos é um animal:",
+    "a1": "Que habita locais com vegetação pouco densa",
+    "a2": "Que habita locais húmidos e alagadiços",
+    "a3": "Que habita locais com vegetação densa",
+    "c": 3
+  },
+  {
+    "id": 119,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Um saca-rabos",
+    "a2": "Um texugo",
+    "a3": "Um furão",
+    "c": 1,
+    "img": 119
+  },
+  {
+    "id": 120,
+    "area": 2,
+    "q": "O saca-rabos alimenta-se principalmente de:",
+    "a1": "Aves, mamíferos, répteis e frutos",
+    "a2": "Produtos vegetais variados",
+    "a3": "Insetos",
+    "c": 1
+  },
+  {
+    "id": 121,
+    "area": 2,
+    "q": "O saca-rabos alimenta-se fundamentalmente de:",
+    "a1": "Pequenas aves e mamíferos, répteis e frutos",
+    "a2": "Produtos vegetais variados",
+    "a3": "Rebentos de árvores e arbustos",
+    "c": 1
+  },
+  {
+    "id": 122,
+    "area": 2,
+    "q": "O saca-rabos tem uma alimentação:",
+    "a1": "Pouco variada, exclusivamente à base de peixes",
+    "a2": "Pouco variada, exclusivamente à base de insetos",
+    "a3": "Muito variada, onde se incluem pequenas aves e mamíferos, invertebrados, répteis e frutos",
+    "c": 3
+  },
+  {
+    "id": 123,
+    "area": 2,
+    "q": "A partir de que idade se pode reproduzir o javali?",
+    "a1": "A partir dos 6 meses",
+    "a2": "A partir dos 8 meses",
+    "a3": "A partir dos 10 meses",
+    "c": 2
+  },
+  {
+    "id": 124,
+    "area": 2,
+    "q": "Como se designam os grupos de javalis?",
+    "a1": "Varas ou companhias",
+    "a2": "Rebanhos ou manadas",
+    "a3": "Bandos ou companhias",
+    "c": 1
+  },
+  {
+    "id": 125,
+    "area": 2,
+    "q": "Qual a espécie de caça maior com mais ampla representação em Portugal?",
+    "a1": "Raposa",
+    "a2": "Veado",
+    "a3": "Javali",
+    "c": 3
+  },
+  {
+    "id": 126,
+    "area": 2,
+    "q": "No javali, dá-se o nome de navalhas aos dentes:",
+    "a1": "Caninos inferiores",
+    "a2": "Caninos superiores",
+    "a3": "Pré-molares",
+    "c": 1
+  },
+  {
+    "id": 127,
+    "area": 2,
+    "q": "No javali, dá-se o nome de amoladeiras aos dentes:",
+    "a1": "Caninos superiores",
+    "a2": "Pré-molares",
+    "a3": "Caninos inferiores",
+    "c": 1
+  },
+  {
+    "id": 128,
+    "area": 2,
+    "q": "Em hábitos alimentares, o javali é um animal:",
+    "a1": "Insectívoro",
+    "a2": "Granívoro",
+    "a3": "Omnívoro",
+    "c": 3
+  },
+  {
+    "id": 129,
+    "area": 2,
+    "q": "Com a idade, os javalis machos adultos, tendem a:",
+    "a1": "Formar casais",
+    "a2": "Formar grandes grupos só de machos",
+    "a3": "Isolar-se progressivamente",
+    "c": 3
+  },
+  {
+    "id": 130,
+    "area": 2,
+    "q": "A gestação do javali, dura em média:",
+    "a1": "100 dias",
+    "a2": "110 dias",
+    "a3": "120 dias",
+    "c": 3
+  },
+  {
+    "id": 131,
+    "area": 2,
+    "q": "Que nome se dá à cria de javali com menos de 6 meses de idade?",
+    "a1": "Listado",
+    "a2": "Farropo",
+    "a3": "Leitão",
+    "c": 1
+  },
+  {
+    "id": 132,
+    "area": 2,
+    "q": "Entre os 6 meses e 1 ano de idade, a cria de javali tem uma designação própria. Qual?",
+    "a1": "Bácoro",
+    "a2": "Listado",
+    "a3": "Farropo",
+    "c": 3
+  },
+  {
+    "id": 133,
+    "area": 2,
+    "q": "Indique qual das seguintes frases está correta:",
+    "a1": "O javali é um animal sociável durante toda a sua vida",
+    "a2": "O trofeu do javali é a cabeça",
+    "a3": "O cio do javali não ocorre sempre numa época fixa",
+    "c": 3
+  },
+  {
+    "id": 134,
+    "area": 2,
+    "q": "O javali apresenta diferentes pelagens consoante a idade. A pelagem conhecida como “raiada” é característica dos animais com:",
+    "a1": "Menos de 6 meses de idade",
+    "a2": "2 anos de idade",
+    "a3": "Idade adulta",
+    "c": 1
+  },
+  {
+    "id": 135,
+    "area": 2,
+    "q": "No javali adulto, um dos carateres que permitem distinguir o macho da fêmea é:",
+    "a1": "A cor mais clara do macho",
+    "a2": "A presença de presas mais desenvolvidas nos machos",
+    "a3": "A cauda mais comprida no macho",
+    "c": 2
+  },
+  {
+    "id": 136,
+    "area": 2,
+    "q": "Em termos de habitat, o javali necessita sobretudo de dois elementos. Indique quais:",
+    "a1": "Zonas abertas com amplas áreas de alimentação",
+    "a2": "Extensas zonas de abrigo - essencialmente constituídas por matos cerrados - e presença de água",
+    "a3": "Zonas cerealíferas em áreas muito acidentadas e presença de água",
+    "c": 2
+  },
+  {
+    "id": 137,
+    "area": 2,
+    "q": "Em que época do ano os gamos perdem as armações?",
+    "a1": "Março a abril",
+    "a2": "Fevereiro a março",
+    "a3": "Janeiro a fevereiro",
+    "c": 1
+  },
+  {
+    "id": 138,
+    "area": 2,
+    "q": "Quando se iniciam os nascimentos nas gamelas?",
+    "a1": "Abril",
+    "a2": "Maio",
+    "a3": "Junho",
+    "c": 2
+  },
+  {
+    "id": 139,
+    "area": 2,
+    "q": "A armação do gamo é constituída por:",
+    "a1": "Duas hastes espalmadas, arredondadas na base",
+    "a2": "Duas hastes arredondadas, espalmadas na base",
+    "a3": "Duas hastes cilíndricas, mais ou menos ramificadas",
+    "c": 1
+  },
+  {
+    "id": 140,
+    "area": 2,
+    "q": "A cabeça do gamo atinge a sua forma característica:",
+    "a1": "Aos 5 anos",
+    "a2": "Aos 6 anos",
+    "a3": "Aos 7 anos",
+    "c": 3
+  },
+  {
+    "id": 141,
+    "area": 2,
+    "q": "O gamo prefere:",
+    "a1": "Zonas com abundante arvoredo e matagal, com áreas de pasto",
+    "a2": "Zonas abertas, com áreas de pasto e sombras",
+    "a3": "Zonas alagadiças e húmidas",
+    "c": 1
+  },
+  {
+    "id": 142,
+    "area": 2,
+    "q": "O cio no gamo começa:",
+    "a1": "No princípio do verão",
+    "a2": "No princípio do outono",
+    "a3": "No princípio do inverno",
+    "c": 2
+  },
+  {
+    "id": 143,
+    "area": 2,
+    "q": "A seguinte figura representa um:",
+    "a1": "Veado",
+    "a2": "Corço",
+    "a3": "Gamo",
+    "c": 1,
+    "img": 143
+  },
+  {
+    "id": 144,
+    "area": 2,
+    "q": "Qual o nome da fêmea do veado?",
+    "a1": "Corça",
+    "a2": "Cerva",
+    "a3": "Gama ou gamela",
+    "c": 2
+  },
+  {
+    "id": 145,
+    "area": 2,
+    "q": "Em que época do ano os veados perdem as armações?",
+    "a1": "Finais de fevereiro a março",
+    "a2": "Finais de março a abril",
+    "a3": "Finais de janeiro a fevereiro",
+    "c": 1
+  },
+  {
+    "id": 146,
+    "area": 2,
+    "q": "A armação do veado atinge a forma característica por volta dos:",
+    "a1": "7 a 8 anos de vida",
+    "a2": "8 a 9 anos de vida",
+    "a3": "6 a 7 anos de vida",
+    "c": 1
+  },
+  {
+    "id": 147,
+    "area": 2,
+    "q": "A armação do veado, além de constituir um troféu de caça, é ainda:",
+    "a1": "Indicadora da idade do macho",
+    "a2": "Indicadora da idade da fêmea",
+    "a3": "Indicadora da idade de ambos os sexos",
+    "c": 1
+  },
+  {
+    "id": 148,
+    "area": 2,
+    "q": "Os habitats preferidos do veado são:",
+    "a1": "Bosques de folha caduca e matagais, muito fechados",
+    "a2": "Bosques de folha caduca, com zonas abertas, e matagais",
+    "a3": "Bosques de coníferas, matagais e zonas húmidas",
+    "c": 2
+  },
+  {
+    "id": 149,
+    "area": 2,
+    "q": "As cervas podem criar pela primeira vez com a idade de:",
+    "a1": "1 ano",
+    "a2": "2 anos",
+    "a3": "3 anos",
+    "c": 2
+  },
+  {
+    "id": 150,
+    "area": 2,
+    "q": "Dá-se o nome de brama:",
+    "a1": "Ao grito de desafio que o veado macho lança aos seus rivais na época do cio",
+    "a2": "Ao grito que as cervas utilizam para chamar as crias",
+    "a3": "Ao grito que os veados machos utilizam para chamar as fêmeas",
+    "c": 1
+  },
+  {
+    "id": 151,
+    "area": 2,
+    "q": "Quando começam os nascimentos nas cervas?",
+    "a1": "Março",
+    "a2": "Abril",
+    "a3": "Maio",
+    "c": 2
+  },
+  {
+    "id": 152,
+    "area": 2,
+    "q": "A armação do veado é composta por:",
+    "a1": "Duas hastes espalmadas, arredondadas na base",
+    "a2": "Duas hastes cilíndricas, mais ou menos ramificadas",
+    "a3": "Duas hastes cilíndricas, espalmadas nas pontas",
+    "c": 2
+  },
+  {
+    "id": 153,
+    "area": 2,
+    "q": "O termo “veludo” significa:",
+    "a1": "A pelagem das crias de veado até ás duas primeiras semanas de vida",
+    "a2": "A cobertura de pele cinzenta com pelos que protege as hastes de veado em formação",
+    "a3": "O escudo anal do corço",
+    "c": 2
+  },
+  {
+    "id": 154,
+    "area": 2,
+    "q": "As armações do veado adulto:",
+    "a1": "Só caem até ao sexto ano de vida",
+    "a2": "Caem todos os anos durante a época do cio",
+    "a3": "Caem todos os anos depois da época do cio",
+    "c": 3
+  },
+  {
+    "id": 155,
+    "area": 2,
+    "q": "Qual dos cervídeos portugueses é mais corpulento?",
+    "a1": "Corço",
+    "a2": "Gamo",
+    "a3": "Veado",
+    "c": 3
+  },
+  {
+    "id": 156,
+    "area": 2,
+    "q": "O veado distingue-se do corço por:",
+    "a1": "Ser mais corpulento",
+    "a2": "Ter hastes ramificadas",
+    "a3": "Só os machos possuírem armação",
+    "c": 1
+  },
+  {
+    "id": 157,
+    "area": 2,
+    "q": "Em que época do ano os machos de veado perdem as armações?",
+    "a1": "Outubro a novembro",
+    "a2": "Fins de fevereiro e março",
+    "a3": "Nunca",
+    "c": 2
+  },
+  {
+    "id": 158,
+    "area": 2,
+    "q": "Em qual das espécies as parições são frequentemente de gémeos?",
+    "a1": "Gamo",
+    "a2": "Muflão",
+    "a3": "Corço",
+    "c": 3
+  },
+  {
+    "id": 159,
+    "area": 2,
+    "q": "O cio do corço ocorre entre:",
+    "a1": "Julho e agosto",
+    "a2": "Agosto e setembro",
+    "a3": "Setembro e outubro",
+    "c": 1
+  },
+  {
+    "id": 160,
+    "area": 2,
+    "q": "No corço, os partos ocorrem geralmente em:",
+    "a1": "Janeiro",
+    "a2": "Maio",
+    "a3": "Agosto",
+    "c": 2
+  },
+  {
+    "id": 161,
+    "area": 2,
+    "q": "O tempo de gestação da corça é de:",
+    "a1": "8 meses",
+    "a2": "9 meses",
+    "a3": "10 meses",
+    "c": 3
+  },
+  {
+    "id": 162,
+    "area": 2,
+    "q": "O corço é um animal:",
+    "a1": "Fundamentalmente solitário",
+    "a2": "Que forma rebanhos durante o inverno",
+    "a3": "Que forma rebanhos durante o verão",
+    "c": 1
+  },
+  {
+    "id": 163,
+    "area": 2,
+    "q": "O cio do corço ocorre",
+    "a1": "No outono",
+    "a2": "No verão",
+    "a3": "Na primavera",
+    "c": 2
+  },
+  {
+    "id": 164,
+    "area": 2,
+    "q": "Durante a época do ano em que o corço não tem armações, como se pode distinguir o macho da fêmea?",
+    "a1": "Pela cor da pele",
+    "a2": "Pelo escudo anal",
+    "a3": "Pelo tamanho das orelhas",
+    "c": 2
+  },
+  {
+    "id": 165,
+    "area": 2,
+    "q": "Em que época ocorre o cio no muflão?",
+    "a1": "No mês de novembro",
+    "a2": "No mês de dezembro",
+    "a3": "No mês de outubro",
+    "c": 1
+  },
+  {
+    "id": 166,
+    "area": 2,
+    "q": "As parições no muflão verificam-se normalmente em:",
+    "a1": "Março",
+    "a2": "Abril",
+    "a3": "Maio",
+    "c": 2
+  },
+  {
+    "id": 167,
+    "area": 2,
+    "q": "Os muflões machos adultos reúnem-se em grupos independentes:",
+    "a1": "No inverno",
+    "a2": "Na primavera",
+    "a3": "No verão",
+    "c": 3
+  },
+  {
+    "id": 168,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Perdiz-vermelha",
+    "a2": "Faisão",
+    "a3": "Rola-comum",
+    "c": 1,
+    "img": 168
+  },
+  {
+    "id": 169,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Uma codorniz",
+    "a2": "Uma perdiz-vermelha",
+    "a3": "Um faisão",
+    "c": 2,
+    "img": 169
+  },
+  {
+    "id": 170,
+    "area": 2,
+    "q": "A perdiz-vermelha possui:",
+    "a1": "Bico e patas vermelhas",
+    "a2": "Bico amarelo e patas vermelhas",
+    "a3": "Bico vermelho e patas amarelas",
+    "c": 1
+  },
+  {
+    "id": 171,
+    "area": 2,
+    "q": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+    "a1": "Os machos serem menores e menos pesados que as fêmeas",
+    "a2": "Os machos serem maiores e mais pesados que as fêmeas",
+    "a3": "Os machos serem do mesmo tamanho que as fêmeas",
+    "c": 2
+  },
+  {
+    "id": 172,
+    "area": 2,
+    "q": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+    "a1": "A cabeça dos machos ser mais volumosa que a das fêmeas",
+    "a2": "A cabeça dos machos ser menos volumosa que a das fêmeas",
+    "a3": "A cabeça das fêmeas ser mais volumosa que a dos machos",
+    "c": 1
+  },
+  {
+    "id": 173,
+    "area": 2,
+    "q": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+    "a1": "As fêmeas terem tarsos mais curtos e delgados",
+    "a2": "As fêmeas terem os tarsos mais compridos e grossos",
+    "a3": "As fêmeas terem os tarsos mais curtos e grossos",
+    "c": 1
+  },
+  {
+    "id": 174,
+    "area": 2,
+    "q": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+    "a1": "Os machos terem tarsos mais curtos e grossos",
+    "a2": "Os machos terem tarsos mais compridos e grossos",
+    "a3": "Os machos terem tarsos mais curtos e delgados",
+    "c": 2
+  },
+  {
+    "id": 175,
+    "area": 2,
+    "q": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+    "a1": "Os machos terem esporões com base larga e extremidade arredondada",
+    "a2": "Os machos terem esporões com base estreita e extremidade bicuda",
+    "a3": "Os machos terem esporões com base larga e extremidade bicuda",
+    "c": 1
+  },
+  {
+    "id": 176,
+    "area": 2,
+    "q": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+    "a1": "As fêmeas, quando apresentam esporões, estes têm a base estreita e são bicudos",
+    "a2": "As fêmeas, quando apresentam esporões, estes têm a base estreita e são redondos",
+    "a3": "As fêmeas, quando apresentam esporões, estes têm a base larga e são bicudos",
+    "c": 1
+  },
+  {
+    "id": 177,
+    "area": 2,
+    "q": "Na perdiz-vermelha, enquanto juvenil, a muda das penas tem início:",
+    "a1": "Ao primeiro mês de vida",
+    "a2": "Ao segundo mês de vida",
+    "a3": "Ao terceiro mês de vida",
+    "c": 1
+  },
+  {
+    "id": 178,
+    "area": 2,
+    "q": "Na perdiz-vermelha, enquanto juvenil, as duas últimas rémiges são:",
+    "a1": "Pontiagudas e podem apresentar uma pequena pinta branca na extremidade",
+    "a2": "Arredondadas e podem apresentar uma pequena pinta branca na extremidade",
+    "a3": "Pontiagudas e sem apresentar uma pequena pinta branca na extremidade",
+    "c": 1
+  },
+  {
+    "id": 179,
+    "area": 2,
+    "q": "Na perdiz-vermelha, o adulto inicia a muda de todas as rémiges primárias:",
+    "a1": "Ao mesmo tempo que o juvenil",
+    "a2": "Duas ou três semanas antes do juvenil",
+    "a3": "Duas ou três semanas depois do juvenil",
+    "c": 2
+  },
+  {
+    "id": 180,
+    "area": 2,
+    "q": "Na perdiz-vermelha adulta, as duas últimas penas:",
+    "a1": "Podem apresentar uma pequena pinta branca na extremidade",
+    "a2": "Têm a extremidade arredondada",
+    "a3": "Têm a extremidade pontiaguda",
+    "c": 2
+  },
+  {
+    "id": 181,
+    "area": 2,
+    "q": "A perdiz-vermelha, é uma ave que prefere especialmente:",
+    "a1": "Zonas alagadiças e incultas",
+    "a2": "Zonas florestadas e com matos",
+    "a3": "Zonas de culturas cerealíferas",
+    "c": 3
+  },
+  {
+    "id": 182,
+    "area": 2,
+    "q": "Qual destas atuações contribui para a boa gestão de uma população de perdizes?",
+    "a1": "A utilização de pesticidas nas culturas",
+    "a2": "O abate de mais de 60% dos efetivos",
+    "a3": "O abate de menos de 50% dos efetivos",
+    "c": 3
+  },
+  {
+    "id": 183,
+    "area": 2,
+    "q": "Na perdiz-vermelha, a alimentação durante o primeiro mês de vida é:",
+    "a1": "Essencialmente insectívora",
+    "a2": "Essencialmente granívora",
+    "a3": "Essencialmente vegetal",
+    "c": 1
+  },
+  {
+    "id": 184,
+    "area": 2,
+    "q": "Na perdiz-vermelha adulta, a alimentação é constituída por:",
+    "a1": "Insetos, bagas, flores e grãos",
+    "a2": "Grãos, bolotas, folhas, raízes e insetos",
+    "a3": "Grãos, bolotas, folhas, rebentos, bagas, flores e raízes",
+    "c": 3
+  },
+  {
+    "id": 185,
+    "area": 2,
+    "q": "A perdiz-vermelha, faz o ninho, geralmente:",
+    "a1": "No chão, com o fundo simplesmente coberto de plantas secas",
+    "a2": "No chão, com o fundo simplesmente coberto de penas suas",
+    "a3": "No chão, com o fundo coberto de plantas secas e penas suas",
+    "c": 1
+  },
+  {
+    "id": 186,
+    "area": 2,
+    "q": "Na perdiz-vermelha, a postura de ovos, no sul do País faz-se durante os meses de:",
+    "a1": "Março a abril",
+    "a2": "Abril a maio",
+    "a3": "Abril a junho",
+    "c": 1
+  },
+  {
+    "id": 187,
+    "area": 2,
+    "q": "Os perdigotos logo que nascem:",
+    "a1": "Permanecem no ninho durante duas semanas",
+    "a2": "Permanecem no ninho pelo menos uma semana",
+    "a3": "Abandonam o ninho",
+    "c": 3
+  },
+  {
+    "id": 188,
+    "area": 2,
+    "q": "Na perdiz-vermelha, a incubação dos ovos, dura cerca de:",
+    "a1": "21 dias",
+    "a2": "23 dias",
+    "a3": "25 dias",
+    "c": 2
+  },
+  {
+    "id": 189,
+    "area": 2,
+    "q": "Em média, o ninho de perdiz-vermelha contém:",
+    "a1": "10 ovos",
+    "a2": "12 ovos",
+    "a3": "14 ovos",
+    "c": 2
+  },
+  {
+    "id": 190,
+    "area": 2,
+    "q": "A perdiz-vermelha, durante o verão e até nova época de acasalamento, desloca-se:",
+    "a1": "Aos casais",
+    "a2": "Isoladamente",
+    "a3": "Em bandos",
+    "c": 3
+  },
+  {
+    "id": 191,
+    "area": 2,
+    "q": "Para bem gerir uma população de perdizes há que seguir certas regras. Qual está certa?",
+    "a1": "Colocar à sua disposição alimento, água e abrigo",
+    "a2": "Abater, anualmente, 60% dos efetivos",
+    "a3": "Eliminar todos os predadores",
+    "c": 1
+  },
+  {
+    "id": 192,
+    "area": 2,
+    "q": "Para manter o nível da população de perdizes há que seguir certas regras. Qual está errada?",
+    "a1": "Evitar o abuso de pesticidas",
+    "a2": "Cuidar da maneira como são feitas as ceifas",
+    "a3": "Abater, anualmente, 60% dos efetivos",
+    "c": 3
+  },
+  {
+    "id": 193,
+    "area": 2,
+    "q": "Para bem gerir uma população de perdizes há que seguir certas regras. Qual está certa?",
+    "a1": "Eliminar todos os predadores",
+    "a2": "Abater, anualmente, todos os predadores",
+    "a3": "Evitar a deambulação de cães e gatos vadios",
+    "c": 3
+  },
+  {
+    "id": 194,
+    "area": 2,
+    "q": "Numa população bem gerida, por cada ninho de perdiz, chegam em média à idade adulta:",
+    "a1": "3 perdigotos",
+    "a2": "5 perdigotos",
+    "a3": "7 perdigotos",
+    "c": 2
+  },
+  {
+    "id": 195,
+    "area": 2,
+    "q": "A perdiz-vermelha faz geralmente o ninho:",
+    "a1": "Em arbustos de pequeno porte",
+    "a2": "No chão",
+    "a3": "Em buracos de muros e paredes",
+    "c": 2
+  },
+  {
+    "id": 196,
+    "area": 2,
+    "q": "A perdiz-vermelha adulta distingue-se da juvenil:",
+    "a1": "Pela cor e tamanho",
+    "a2": "Pela observação das rémiges primárias (as dez penas da extremidade da asa)",
+    "a3": "Pelos tarsos e esporões",
+    "c": 2
+  },
+  {
+    "id": 197,
+    "area": 2,
+    "q": "A perdiz-vermelha é uma espécie que prefere:",
+    "a1": "Zonas de culturas cerealíferas",
+    "a2": "Zonas com solos leves e húmidos",
+    "a3": "Zonas rochosas incluindo a orla marítima",
+    "c": 1
+  },
+  {
+    "id": 198,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Um pombo-torcaz",
+    "a2": "Um pombo-bravo",
+    "a3": "Uma rola-comum",
+    "c": 3,
+    "img": 198
+  },
+  {
+    "id": 199,
+    "area": 2,
+    "q": "A rola-comum distingue-se dos pombos por:",
+    "a1": "Ser mais pequena e de silhueta mais esbelta",
+    "a2": "Ser mais pequena e de silhueta menos esbelta",
+    "a3": "Ser mais pequena e de silhueta mais atarracada",
+    "c": 1
+  },
+  {
+    "id": 200,
+    "area": 2,
+    "q": "A rola-comum distingue-se dos pombos por:",
+    "a1": "Em voo, ter um batimento de asas menos irregular",
+    "a2": "Em voo, ter um batimento de asas mais irregular",
+    "a3": "Em voo, ter um batimento de asas mais lento",
+    "c": 2
+  },
+  {
+    "id": 201,
+    "area": 2,
+    "q": "A rola-comum distingue-se dos pombos por:",
+    "a1": "Em voo, notar-se a cauda negra com barra terminal escura",
+    "a2": "Em voo, notar-se a cauda branca com barra terminal escura",
+    "a3": "Em voo, notar-se a cauda negra com barra terminal branca",
+    "c": 3
+  },
+  {
+    "id": 202,
+    "area": 2,
+    "q": "A rola-comum é uma ave migradora que inverna:",
+    "a1": "No continente africano e nidifica na Europa",
+    "a2": "No continente europeu e nidifica em África",
+    "a3": "No continente americano e nidifica na Europa",
+    "c": 1
+  },
+  {
+    "id": 203,
+    "area": 2,
+    "q": "A entrada das rolas na Europa dá-se a partir do mês de:",
+    "a1": "Março",
+    "a2": "Abril",
+    "a3": "Maio",
+    "c": 2
+  },
+  {
+    "id": 204,
+    "area": 2,
+    "q": "A rola-comum, é uma espécie que prefere:",
+    "a1": "Matas pouco densas alternando com zonas alagadiças",
+    "a2": "Matas densas alternando com searas e pastos",
+    "a3": "Zonas alagadiças alternando com searas e pastos",
+    "c": 2
+  },
+  {
+    "id": 205,
+    "area": 2,
+    "q": "A rola-comum, em termos alimentares, é:",
+    "a1": "Uma ave insectívora",
+    "a2": "Uma ave insectívora e granívora",
+    "a3": "Uma ave granívora",
+    "c": 3
+  },
+  {
+    "id": 206,
+    "area": 2,
+    "q": "A rola-comum baseia a sua alimentação em:",
+    "a1": "Sementes, cereais e também insetos, embora em pequena percentagem",
+    "a2": "Sementes, rebentos novos e também insetos, embora em pequena percentagem",
+    "a3": "Cereais, rebentos novos e também insetos, embora em pequena percentagem",
+    "c": 1
+  },
+  {
+    "id": 207,
+    "area": 2,
+    "q": "A rola-comum é normalmente avistada:",
+    "a1": "Aos pares ou em grandes grupos",
+    "a2": "Aos pares ou isoladas",
+    "a3": "Aos pares ou em grupos muito pequenos",
+    "c": 3
+  },
+  {
+    "id": 208,
+    "area": 2,
+    "q": "Os primeiros ninhos de rola-comum são feitos em:",
+    "a1": "Maio",
+    "a2": "Abril",
+    "a3": "Junho",
+    "c": 1
+  },
+  {
+    "id": 209,
+    "area": 2,
+    "q": "A postura da rola-comum é de:",
+    "a1": "Três ovos, raramente um",
+    "a2": "Dois ovos, raramente um",
+    "a3": "Quatro ovos, raramente dois",
+    "c": 2
+  },
+  {
+    "id": 210,
+    "area": 2,
+    "q": "A incubação dos ovos, no caso da rola-comum:",
+    "a1": "É feita só pelas fêmeas",
+    "a2": "É feita só pelos machos",
+    "a3": "É feita por ambos os sexos",
+    "c": 3
+  },
+  {
+    "id": 211,
+    "area": 2,
+    "q": "Em voo, a rola-comum distingue-se dos pombos por se notar:",
+    "a1": "A cauda negra com barra terminal escura",
+    "a2": "A cauda branca com barra terminal escura",
+    "a3": "A cauda negra com barra terminal branca",
+    "c": 3
+  },
+  {
+    "id": 212,
+    "area": 2,
+    "q": "Qual o habitat preferencial da rola-comum:",
+    "a1": "Matas densas alternando com campos abertos",
+    "a2": "Florestas",
+    "a3": "Zonas húmidas",
+    "c": 1
+  },
+  {
+    "id": 213,
+    "area": 2,
+    "q": "A codorniz é uma espécie:",
+    "a1": "Migradora invernante em todo o País",
+    "a2": "Migradora estival em todo o País",
+    "a3": "Migradora invernante no norte do País",
+    "c": 2
+  },
+  {
+    "id": 214,
+    "area": 2,
+    "q": "Pode afirmar-se que a codorniz é:",
+    "a1": "O mais pequeno animal europeu",
+    "a2": "O mais pequeno herbívoro europeu",
+    "a3": "O mais pequeno galináceo europeu",
+    "c": 3
+  },
+  {
+    "id": 215,
+    "area": 2,
+    "q": "A codorniz é uma espécie que:",
+    "a1": "Vem de África para criar na Europa",
+    "a2": "Vem do Médio Oriente para criar na Europa",
+    "a3": "Sedentária no norte do País",
+    "c": 1
+  },
+  {
+    "id": 216,
+    "area": 2,
+    "q": "A codorniz é uma espécie que:",
+    "a1": "Se pode encontrar durante todo o ano no norte do País",
+    "a2": "Se pode encontrar durante todo o ano no sul do País",
+    "a3": "Se pode encontrar durante todo o ano no sul do País e nos Açores",
+    "c": 3
+  },
+  {
+    "id": 217,
+    "area": 2,
+    "q": "O cantar da codorniz pode ser ouvido:",
+    "a1": "De dia e ao crepúsculo da manhã",
+    "a2": "De noite e ao crepúsculo da tarde",
+    "a3": "Quer de dia quer de noite",
+    "c": 3
+  },
+  {
+    "id": 218,
+    "area": 2,
+    "q": "A codorniz é uma espécie que prefere:",
+    "a1": "Campos cultivados, searas, pastos e espaços abertos em bosques",
+    "a2": "Campos cultivados, searas, pastos e zonas alagadiças",
+    "a3": "Campos cultivados, searas, pastos e zonas pedregosas",
+    "c": 1
+  },
+  {
+    "id": 219,
+    "area": 2,
+    "q": "A codorniz é uma espécie que:",
+    "a1": "Nidifica em arbustos de pequeno porte",
+    "a2": "Nidifica no solo",
+    "a3": "Nidifica em arbustos de médio porte",
+    "c": 2
+  },
+  {
+    "id": 220,
+    "area": 2,
+    "q": "O ninho da codorniz é formado por:",
+    "a1": "Uma ligeira depressão forrada com penas da própria codorniz",
+    "a2": "Uma ligeira depressão forrada com detritos diversos",
+    "a3": "Uma ligeira depressão forrada com material vegetal",
+    "c": 3
+  },
+  {
+    "id": 221,
+    "area": 2,
+    "q": "A codorniz é uma espécie que cria geralmente:",
+    "a1": "De meados de maio a junho",
+    "a2": "De meados de maio a julho",
+    "a3": "De meados de abril a junho",
+    "c": 1
+  },
+  {
+    "id": 222,
+    "area": 2,
+    "q": "Na codorniz, a incubação dos ovos é feita:",
+    "a1": "Só pelo macho",
+    "a2": "Só pela fêmea",
+    "a3": "Por ambos os sexos",
+    "c": 2
+  },
+  {
+    "id": 223,
+    "area": 2,
+    "q": "Na codorniz, a incubação dos ovos dura entre:",
+    "a1": "12 a 16 dias",
+    "a2": "16 a 21 dias",
+    "a3": "18 a 21 dias",
+    "c": 2
+  },
+  {
+    "id": 224,
+    "area": 2,
+    "q": "Na codorniz, a partir de que idade podem os pintos migrar juntamente com os adultos?",
+    "a1": "Com 2 meses",
+    "a2": "Com 3 meses",
+    "a3": "Com 4 meses",
+    "c": 1
+  },
+  {
+    "id": 225,
+    "area": 2,
+    "q": "Pode afirmar-se que a codorniz é:",
+    "a1": "O mais pequeno animal europeu",
+    "a2": "O mais pequeno galináceo europeu",
+    "a3": "O mais pequeno herbívoro europeu",
+    "c": 2
+  },
+  {
+    "id": 226,
+    "area": 2,
+    "q": "A codorniz faz geralmente o ninho:",
+    "a1": "Em arbustos e árvores de pequeno porte",
+    "a2": "Em árvores de grande porte",
+    "a3": "No solo",
+    "c": 3
+  },
+  {
+    "id": 227,
+    "area": 2,
+    "q": "Qual das afirmações está correta:",
+    "a1": "A rola inicia a construção do ninho em abril",
+    "a2": "Os pintos da codorniz podem migrar com os adultos com dois meses de vida",
+    "a3": "A lebre tem apenas uma ninhada por ano",
+    "c": 2
+  },
+  {
+    "id": 228,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Um arrabio",
+    "a2": "Um pato-trombeteiro",
+    "a3": "Um pato-real",
+    "c": 1,
+    "img": 228
+  },
+  {
+    "id": 229,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Arrabio",
+    "a2": "Frisada",
+    "a3": "Pato-real",
+    "c": 3,
+    "img": 229
+  },
+  {
+    "id": 230,
+    "area": 2,
+    "q": "Uma das características dos patos de superfície é:",
+    "a1": "Possuírem tamanho pequeno a médio",
+    "a2": "Possuírem tamanho médio",
+    "a3": "Possuírem tamanho médio a grande",
+    "c": 1
+  },
+  {
+    "id": 231,
+    "area": 2,
+    "q": "Uma das características dos patos de superfície é:",
+    "a1": "Possuírem pescoço, asas e patas curtas",
+    "a2": "Possuírem pescoço e patas de tamanho médio",
+    "a3": "Possuírem pescoço e patas compridas",
+    "c": 2
+  },
+  {
+    "id": 232,
+    "area": 2,
+    "q": "Uma das características dos patos de superfície é:",
+    "a1": "Possuírem espelho alar geralmente com brilho metálico",
+    "a2": "Possuírem franja alar branca ou pálida",
+    "a3": "Possuírem coloração quase sempre escura",
+    "c": 1
+  },
+  {
+    "id": 233,
+    "area": 2,
+    "q": "Uma das características dos patos de superfície é:",
+    "a1": "Apresentarem dimorfismo sexual variável conforme as espécies",
+    "a2": "Não apresentarem dimorfismo sexual",
+    "a3": "Apresentarem dimorfismo sexual acentuado na maioria das espécies",
+    "c": 3
+  },
+  {
+    "id": 234,
+    "area": 2,
+    "q": "Qual das espécies de patos seguintes não apresenta “espelho alar”?",
+    "a1": "Pato-real",
+    "a2": "Frisada",
+    "a3": "Zarro-comum",
+    "c": 3
+  },
+  {
+    "id": 235,
+    "area": 2,
+    "q": "Os patos que apresentam “espelho alar” geralmente com brilho metálico, são os:",
+    "a1": "Patos de superfície",
+    "a2": "Patos marinhos",
+    "a3": "Patos mergulhadores",
+    "c": 1
+  },
+  {
+    "id": 236,
+    "area": 2,
+    "q": "Uma das características dos patos de superfície é:",
+    "a1": "Terem uma alimentação preferencialmente animal",
+    "a2": "Obterem a sua alimentação através do mergulho",
+    "a3": "Arrancarem as plantas do fundo com o terço posterior emerso",
+    "c": 3
+  },
+  {
+    "id": 237,
+    "area": 2,
+    "q": "Uma das características dos patos de superfície é:",
+    "a1": "Levantarem voo quase na vertical",
+    "a2": "Patinharem na água antes de levantar voo",
+    "a3": "Emergirem praticamente no local onde imergiram",
+    "c": 1
+  },
+  {
+    "id": 238,
+    "area": 2,
+    "q": "A alimentação dos patos de superfície é constituída à base de:",
+    "a1": "Microrganismos em suspensão na água e plantas do fundo",
+    "a2": "Moluscos, vermes e plantas",
+    "a3": "Moluscos, vermes e peixes",
+    "c": 1
+  },
+  {
+    "id": 239,
+    "area": 2,
+    "q": "Uma das características dos patos mergulhadores é:",
+    "a1": "Possuírem franja alar branca ou pálida",
+    "a2": "Possuírem coloração quase sempre escura",
+    "a3": "Possuírem espelho com reflexos metálicos",
+    "c": 1
+  },
+  {
+    "id": 240,
+    "area": 2,
+    "q": "Uma das características dos patos mergulhadores é:",
+    "a1": "Possuírem tamanho pequeno a médio",
+    "a2": "Possuírem tamanho médio",
+    "a3": "Possuírem tamanho médio a grande",
+    "c": 1
+  },
+  {
+    "id": 241,
+    "area": 2,
+    "q": "Uma das características dos patos mergulhadores é:",
+    "a1": "Possuírem pescoço e patas compridas",
+    "a2": "Possuírem pescoço, asas e patas curtas",
+    "a3": "Possuírem pescoço e patas de tamanho médio",
+    "c": 2
+  },
+  {
+    "id": 242,
+    "area": 2,
+    "q": "Uma das características dos patos mergulhadores é:",
+    "a1": "Apresentarem dimorfismo sexual variável conforme as espécies",
+    "a2": "Apresentarem dimorfismo sexual acentuado na maioria das espécies",
+    "a3": "Não apresentarem dimorfismo sexual",
+    "c": 1
+  },
+  {
+    "id": 243,
+    "area": 2,
+    "q": "Uma das características dos patos mergulhadores é:",
+    "a1": "Patinharem na água antes de levantar voo",
+    "a2": "Levantarem voo quase na vertical",
+    "a3": "Emergirem a alguns metros do local onde mergulharam",
+    "c": 1
+  },
+  {
+    "id": 244,
+    "area": 2,
+    "q": "Dos seguintes conjuntos de espécies, qual deles é vulgar encontrar no mês de janeiro, num habitat classificado como zona húmida?",
+    "a1": "Pato-trombeteiro, galinha-d’água e galeirão",
+    "a2": "Tarambola-dourada, pato-real e lebre",
+    "a3": "Arrabio, pombo-torcaz e galeirão",
+    "c": 1
+  },
+  {
+    "id": 245,
+    "area": 2,
+    "q": "Nos patos mergulhadores, a alimentação é constituída à base de:",
+    "a1": "Moluscos, vermes e peixes",
+    "a2": "Moluscos, vermes e plantas",
+    "a3": "Microrganismos em suspensão na água e plantas do fundo",
+    "c": 2
+  },
+  {
+    "id": 246,
+    "area": 2,
+    "q": "À exceção do pato-real e do marreco, as restantes espécies de patos ocorrentes no País:",
+    "a1": "Invernam em Portugal e criam no Norte e Centro da Europa",
+    "a2": "Invernam em Portugal e criam no Norte e Sul da Europa",
+    "a3": "Invernam em Portugal e criam no Sul e Centro da Europa",
+    "c": 1
+  },
+  {
+    "id": 247,
+    "area": 2,
+    "q": "A maior parte da população de pato-real ocorrente no nosso País é:",
+    "a1": "Migradora invernante",
+    "a2": "Migradora de passagem",
+    "a3": "Sedentária",
+    "c": 3
+  },
+  {
+    "id": 248,
+    "area": 2,
+    "q": "A frisada é um pato de superfície, cujo macho possui um espelho alar:",
+    "a1": "Pequeno branco, orlado em cima por negro e ruivo vivo",
+    "a2": "Verde brilhante",
+    "a3": "Verde bronze",
+    "c": 1
+  },
+  {
+    "id": 249,
+    "area": 2,
+    "q": "O pato-trombeteiro macho distingue-se por possuir:",
+    "a1": "Dorso cinzento, pescoço, cabeça e peito cor de tijolo, fronte amarela",
+    "a2": "Cabeça verde, peito branco, mancha castanha nos flancos e ventre",
+    "a3": "Dorso acinzentado, cabeça verde, peito castanho, partes inferiores claras",
+    "c": 2
+  },
+  {
+    "id": 250,
+    "area": 2,
+    "q": "A fêmea do zarro-comum, distingue-se do macho por possuir:",
+    "a1": "Coloração acastanhada, com anel cinzento-azulado à volta do bico",
+    "a2": "Um bico espatulado negro",
+    "a3": "Uma coloração acastanhada, com bico alaranjado",
+    "c": 1
+  },
+  {
+    "id": 251,
+    "area": 2,
+    "q": "O arrabio é um pato de superfície que se pode distinguir dos outros patos por:",
+    "a1": "Possuir um bico espatulado muito desenvolvido",
+    "a2": "Possuir pescoço branco e peito cor de tijolo",
+    "a3": "Possuir um pescoço comparativamente mais longo e esbelto",
+    "c": 3
+  },
+  {
+    "id": 252,
+    "area": 2,
+    "q": "O zarro-comum macho é um pato mergulhador que se pode distinguir por:",
+    "a1": "Possuir cabeça e pescoço castanho avermelhado, peito e corpo cinzentos",
+    "a2": "Possuir cabeça avermelhada com sobrancelha branca",
+    "a3": "Cor geral castanho acinzentada, pescoço, cabeça e peito cor de tijolo",
+    "c": 1
+  },
+  {
+    "id": 253,
+    "area": 2,
+    "q": "Qual das seguintes espécies apresenta um “espelho azul”?",
+    "a1": "Zarro-comum",
+    "a2": "Pato-real",
+    "a3": "Pato-trombeteiro",
+    "c": 2
+  },
+  {
+    "id": 254,
+    "area": 2,
+    "q": "Como se distinguem os patos de superfície dos patos mergulhadores?",
+    "a1": "São maiores",
+    "a2": "Levantam voo quase na vertical",
+    "a3": "Têm cores menos brilhantes",
+    "c": 2
+  },
+  {
+    "id": 255,
+    "area": 2,
+    "q": "Qual das espécies de patos seguintes não apresenta “espelho alar”?",
+    "a1": "Pato-real",
+    "a2": "Frisada",
+    "a3": "Zarro-comum",
+    "c": 3
+  },
+  {
+    "id": 256,
+    "area": 2,
+    "q": "A galinha-d’água possui:",
+    "a1": "Bico vermelho com a ponta amarela",
+    "a2": "Bico amarelo com ponta vermelha",
+    "a3": "Bico vermelho com ponta branca",
+    "c": 1
+  },
+  {
+    "id": 257,
+    "area": 2,
+    "q": "A galinha-d’água possui:",
+    "a1": "Placa frontal branca",
+    "a2": "Placa frontal amarela",
+    "a3": "Placa frontal vermelha",
+    "c": 3
+  },
+  {
+    "id": 258,
+    "area": 2,
+    "q": "A galinha-d’água é muito comum em:",
+    "a1": "Charcos, lagoas, zonas alagadas e cursos de água lentos",
+    "a2": "Charcos, lagoas e cursos de água muito rápidos",
+    "a3": "Lagoas, zonas alagadas e cursos de água temporários",
+    "c": 1
+  },
+  {
+    "id": 259,
+    "area": 2,
+    "q": "A galinha-d’água é muito comum em:",
+    "a1": "Charcos, lagoas, zonas alagadas e cursos de água lentos",
+    "a2": "Cursos de água muito rápidos sem vegetação nas margens",
+    "a3": "Zonas de matos e arvoredo abundante",
+    "c": 1
+  },
+  {
+    "id": 260,
+    "area": 2,
+    "q": "A atividade da galinha-d’água é:",
+    "a1": "Essencialmente diurna",
+    "a2": "Essencialmente noturna",
+    "a3": "Essencialmente crepuscular",
+    "c": 3
+  },
+  {
+    "id": 261,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Um galeirão",
+    "a2": "Uma galinha-d’água",
+    "a3": "Um abibe",
+    "c": 2,
+    "img": 261
+  },
+  {
+    "id": 262,
+    "area": 2,
+    "q": "O galeirão, em relação à galinha-d’água, apresenta um aspeto:",
+    "a1": "Mais pesado e menos vivo",
+    "a2": "Menos pesado e menos vivo",
+    "a3": "Mais pesado e mais vivo",
+    "c": 1
+  },
+  {
+    "id": 263,
+    "area": 2,
+    "q": "O galeirão distingue-se da galinha-d’água por possuir:",
+    "a1": "Bico branco e placa frontal vermelha",
+    "a2": "Bico branco e placa frontal branca",
+    "a3": "Bico vermelho e placa frontal branca",
+    "c": 2
+  },
+  {
+    "id": 264,
+    "area": 2,
+    "q": "Os galeirões, durante o inverno:",
+    "a1": "Constituem grandes bandos",
+    "a2": "Observam-se aos casais",
+    "a3": "São animais solitários",
+    "c": 1
+  },
+  {
+    "id": 265,
+    "area": 2,
+    "q": "Os galeirões, durante a época de reprodução:",
+    "a1": "São animais muito sociáveis, constituindo grandes bandos",
+    "a2": "São animais combativos e extremamente territoriais",
+    "a3": "São animais que andam sós ou em pequenos grupos",
+    "c": 2
+  },
+  {
+    "id": 266,
+    "area": 2,
+    "q": "Qual a estação do ano em que os galeirões podem ser observados em grandes bandos?",
+    "a1": "Inverno",
+    "a2": "Primavera",
+    "a3": "Outono",
+    "c": 1
+  },
+  {
+    "id": 267,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Uma perdiz-vermelha",
+    "a2": "Uma rola-comum",
+    "a3": "Um pombo-torcaz",
+    "c": 3,
+    "img": 267
+  },
+  {
+    "id": 268,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Uma rola-comum",
+    "a2": "Um pombo-da-rocha",
+    "a3": "Um pombo-torcaz",
+    "c": 2,
+    "img": 268
+  },
+  {
+    "id": 269,
+    "area": 2,
+    "q": "Os pombos podem caracterizar-se por possuírem:",
+    "a1": "Aspeto robusto, asas pontiagudas, cabeça pequena, cauda comprida e voo rápido",
+    "a2": "Aspeto robusto, asas arredondadas, cabeça grande, cauda comprida e voo rápido",
+    "a3": "Aspeto robusto, asas pontiagudas, cabeça média, cauda curta e voo muito rápido",
+    "c": 1
+  },
+  {
+    "id": 270,
+    "area": 2,
+    "q": "Normalmente, os pombos, fora da época de criação:",
+    "a1": "Vivem aos pares",
+    "a2": "Vivem isolados",
+    "a3": "Vivem em bandos",
+    "c": 3
+  },
+  {
+    "id": 271,
+    "area": 2,
+    "q": "O pombo-torcaz, distingue-se dos restantes pombos por possuir:",
+    "a1": "Duas barras pretas nas asas",
+    "a2": "Duas manchas brancas nos lados do pescoço e das asas",
+    "a3": "Pontas das asas negras e uropígio branco",
+    "c": 2
+  },
+  {
+    "id": 272,
+    "area": 2,
+    "q": "Indique qual dos pombos apresenta maior envergadura:",
+    "a1": "Pombo-bravo",
+    "a2": "Pombo-da-rocha",
+    "a3": "Pombo-torcaz",
+    "c": 3
+  },
+  {
+    "id": 273,
+    "area": 2,
+    "q": "O pombo-torcaz distingue-se do pombo-bravo e do pombo-da-rocha por ser:",
+    "a1": "O menor dos três pombos",
+    "a2": "O maior dos três pombos",
+    "a3": "Completamente escuro",
+    "c": 2
+  },
+  {
+    "id": 274,
+    "area": 2,
+    "q": "A maioria da população de pombo-torcaz que nos visita é proveniente:",
+    "a1": "Do Norte da Europa",
+    "a2": "Do Sul da Europa",
+    "a3": "Do Médio Oriente",
+    "c": 1
+  },
+  {
+    "id": 275,
+    "area": 2,
+    "q": "O pombo-torcaz, normalmente constrói o ninho, em:",
+    "a1": "Árvores, a alturas geralmente elevadas",
+    "a2": "Buracos de árvores e de edifícios",
+    "a3": "Árvores baixas e falésias",
+    "c": 1
+  },
+  {
+    "id": 276,
+    "area": 2,
+    "q": "Dos pombos existentes entre nós, qual deles apresenta distribuição menos alargada?",
+    "a1": "Pombo-da-rocha",
+    "a2": "Pombo-torcaz",
+    "a3": "Pombo-bravo",
+    "c": 3
+  },
+  {
+    "id": 277,
+    "area": 2,
+    "q": "Dos pombos existentes entre nós, qual deles é parcialmente migrador?",
+    "a1": "Pombo-torcaz",
+    "a2": "Pombo-da-rocha",
+    "a3": "Pombo-bravo",
+    "c": 1
+  },
+  {
+    "id": 278,
+    "area": 2,
+    "q": "A qual dos pombos existentes entre nós também se dá o nome de seixa?",
+    "a1": "Pombo-torcaz",
+    "a2": "Pombo-da-rocha",
+    "a3": "Pombo-bravo",
+    "c": 3
+  },
+  {
+    "id": 279,
+    "area": 2,
+    "q": "A alimentação do pombo-da-rocha é à base de:",
+    "a1": "Bolota e azeitona",
+    "a2": "Grãos e sementes",
+    "a3": "Grãos, bagas, sementes e bolotas",
+    "c": 2
+  },
+  {
+    "id": 280,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Uma narceja-comum",
+    "a2": "Uma galinhola",
+    "a3": "Uma tarambola-dourada",
+    "c": 2,
+    "img": 280
+  },
+  {
+    "id": 281,
+    "area": 2,
+    "q": "Qual das frases está errada?",
+    "a1": "A galinhola é uma ave migradora em todo o território nacional",
+    "a2": "A galinhola é uma ave sedentária nos Açores",
+    "a3": "A galinhola é uma ave migradora em Portugal Continental",
+    "c": 1
+  },
+  {
+    "id": 282,
+    "area": 2,
+    "q": "O período de atividade da galinhola, é fundamentalmente:",
+    "a1": "Diurno e noturno",
+    "a2": "Crepuscular e diurno",
+    "a3": "Crepuscular e noturno",
+    "c": 3
+  },
+  {
+    "id": 283,
+    "area": 2,
+    "q": "A galinhola é uma ave:",
+    "a1": "Solitária",
+    "a2": "Que se encontra aos casais",
+    "a3": "Que vive em bandos",
+    "c": 1
+  },
+  {
+    "id": 284,
+    "area": 2,
+    "q": "A galinhola caracteriza-se por possuir:",
+    "a1": "Asas estreitas e arredondadas, bico comprido e direito",
+    "a2": "Asas largas e arredondadas, bico curto e direito",
+    "a3": "Asas largas e arredondadas, bico comprido e direito",
+    "c": 3
+  },
+  {
+    "id": 285,
+    "area": 2,
+    "q": "O voo da galinhola caracteriza-se por ser:",
+    "a1": "Rápido e silencioso entre as árvores",
+    "a2": "Rápido e retilíneo",
+    "a3": "Lento e silencioso com o bico apontado para o solo",
+    "c": 1
+  },
+  {
+    "id": 286,
+    "area": 2,
+    "q": "Quando em voo, a galinhola apresenta uma figura:",
+    "a1": "Longilínea, de asas redondas e bico apontado para o solo",
+    "a2": "Atarracada, de asas redondas e bico apontado para o solo",
+    "a3": "Atarracada, de asas estreitas e bico apontado para o solo",
+    "c": 2
+  },
+  {
+    "id": 287,
+    "area": 2,
+    "q": "A galinhola, para a sua criação, procura:",
+    "a1": "Países do centro e sul da Europa",
+    "a2": "Países do norte de África",
+    "a3": "Países do centro e norte da Europa",
+    "c": 3
+  },
+  {
+    "id": 288,
+    "area": 2,
+    "q": "A galinhola, em Portugal Continental é uma ave migradora:",
+    "a1": "Estival",
+    "a2": "Invernante",
+    "a3": "Primaveril",
+    "c": 2
+  },
+  {
+    "id": 289,
+    "area": 2,
+    "q": "A galinhola encontra-se geralmente:",
+    "a1": "Em bosques muito densos e fechados",
+    "a2": "Em bosques associados a áreas de cultivo",
+    "a3": "Em bosques com vegetação arbustiva",
+    "c": 3
+  },
+  {
+    "id": 290,
+    "area": 2,
+    "q": "Qual o tipo de zonas que a galinhola prefere para se alimentar?",
+    "a1": "Terras frescas e húmidas",
+    "a2": "Terras pedregosas e húmidas",
+    "a3": "Terras argilosas e secas",
+    "c": 1
+  },
+  {
+    "id": 291,
+    "area": 2,
+    "q": "A galinhola:",
+    "a1": "Encontra-se normalmente em bandos de grandes dimensões",
+    "a2": "Encontra-se normalmente em bandos de pequenas dimensões",
+    "a3": "É uma ave solitária",
+    "c": 3
+  },
+  {
+    "id": 292,
+    "area": 2,
+    "q": "Qual o habitat preferido da galinhola:",
+    "a1": "Zonas abertas e húmidas",
+    "a2": "Montados de azinho",
+    "a3": "Bosques com vegetação arbustiva e terrenos frescos e húmidos",
+    "c": 3
+  },
+  {
+    "id": 293,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Narceja-galega",
+    "a2": "Narceja-comum",
+    "a3": "Galinhola",
+    "c": 2,
+    "img": 293
+  },
+  {
+    "id": 294,
+    "area": 2,
+    "q": "As narcejas encontram-se geralmente ligadas a:",
+    "a1": "Bosques com vegetação arbustiva suficiente para lhes fornecer coberto",
+    "a2": "Zonas com solos leves e húmidos",
+    "a3": "Grandes planícies cultivadas em zonas interiores",
+    "c": 2
+  },
+  {
+    "id": 295,
+    "area": 2,
+    "q": "As narcejas para se alimentarem:",
+    "a1": "Esgravatam o solo com as patas à procura dos invertebrados de que se alimentam",
+    "a2": "Utilizam o bico para extraírem da terra os invertebrados de que se alimentam",
+    "a3": "Perseguem os invertebrados de que se alimentam",
+    "c": 2
+  },
+  {
+    "id": 296,
+    "area": 2,
+    "q": "As narcejas são caracterizadas por possuírem:",
+    "a1": "Grande bico, pernas e pescoço relativamente curtos",
+    "a2": "Bico, pernas e pescoço relativamente curtos",
+    "a3": "Bico, pernas e pescoço relativamente compridos",
+    "c": 1
+  },
+  {
+    "id": 297,
+    "area": 2,
+    "q": "As narcejas são animais:",
+    "a1": "Muito sociáveis",
+    "a2": "Pouco sociáveis",
+    "a3": "Migradoras estivais",
+    "c": 2
+  },
+  {
+    "id": 298,
+    "area": 2,
+    "q": "As narcejas, para criação, procuram:",
+    "a1": "Países do centro e sul da Europa",
+    "a2": "Países do norte de África",
+    "a3": "Países do centro e norte da Europa",
+    "c": 3
+  },
+  {
+    "id": 299,
+    "area": 2,
+    "q": "Entre nós, a narceja é uma ave:",
+    "a1": "Migradora estival",
+    "a2": "Migradora invernante",
+    "a3": "Parcialmente migradora",
+    "c": 2
+  },
+  {
+    "id": 300,
+    "area": 2,
+    "q": "Quantas espécies de narcejas ocorrem entre nós?",
+    "a1": "1",
+    "a2": "2",
+    "a3": "3",
+    "c": 3
+  },
+  {
+    "id": 301,
+    "area": 2,
+    "q": "Qual das espécies de narcejas ocorrentes é extremamente rara?",
+    "a1": "Narceja-comum",
+    "a2": "Narceja-galega",
+    "a3": "Narceja-grande",
+    "c": 3
+  },
+  {
+    "id": 302,
+    "area": 2,
+    "q": "Das espécies de narcejas que se podem caçar, qual a que tem maior envergadura?",
+    "a1": "Narceja-grande",
+    "a2": "Narceja-comum",
+    "a3": "Narceja-galega",
+    "c": 2
+  },
+  {
+    "id": 303,
+    "area": 2,
+    "q": "A alimentação das narcejas baseia-se em:",
+    "a1": "Moluscos, insetos, fragmentos vegetais, grãos",
+    "a2": "Insetos, sementes e plantas aquáticas",
+    "a3": "Arroz, milho, caracóis e pequenas rãs",
+    "c": 1
+  },
+  {
+    "id": 304,
+    "area": 2,
+    "q": "Qual destas afirmações é correta?",
+    "a1": "A lebre tem orelhas e tamanho diferente do coelho, mas uma coloração igual",
+    "a2": "O pombo-torcaz distingue-se do pombo-bravo por ser mais pequeno",
+    "a3": "A narceja-comum distingue-se da narceja-galega por ser maior e ter o bico mais comprido",
+    "c": 3
+  },
+  {
+    "id": 305,
+    "area": 2,
+    "q": "A alimentação da tarambola-dourada baseia-se sobretudo em:",
+    "a1": "Vermes, caracóis e grãos",
+    "a2": "insetos e larvas",
+    "a3": "Moluscos, crustáceos e vermes",
+    "c": 2
+  },
+  {
+    "id": 306,
+    "area": 2,
+    "q": "Quantas espécies de tarambolas se podem encontrar em Portugal?",
+    "a1": "3",
+    "a2": "2",
+    "a3": "1",
+    "c": 2
+  },
+  {
+    "id": 307,
+    "area": 2,
+    "q": "As tarambolas visitam Portugal:",
+    "a1": "Durante o inverno e primavera",
+    "a2": "Durante o outono e inverno",
+    "a3": "Apenas durante o inverno",
+    "c": 3
+  },
+  {
+    "id": 308,
+    "area": 2,
+    "q": "A tarambola-dourada encontra-se:",
+    "a1": "Em zonas florestais",
+    "a2": "Especialmente em zonas interiores",
+    "a3": "Exclusivamente em áreas costeiras",
+    "c": 2
+  },
+  {
+    "id": 309,
+    "area": 2,
+    "q": "Os tordos são:",
+    "a1": "Pássaros de tamanho pequeno",
+    "a2": "Pássaros de tamanho grande",
+    "a3": "Pássaros de tamanho médio",
+    "c": 3
+  },
+  {
+    "id": 310,
+    "area": 2,
+    "q": "Quantas espécies de tordos se podem encontrar em Portugal?",
+    "a1": "5",
+    "a2": "4",
+    "a3": "3",
+    "c": 2
+  },
+  {
+    "id": 311,
+    "area": 2,
+    "q": "A alimentação dos tordos baseia-se em:",
+    "a1": "Invertebrados e frutos",
+    "a2": "Insetos, moluscos e caracóis",
+    "a3": "Insetos e larvas",
+    "c": 1
+  },
+  {
+    "id": 312,
+    "area": 2,
+    "q": "Qual das espécies de tordos é a maior?",
+    "a1": "Tordeia",
+    "a2": "Tordo-zornal",
+    "a3": "Tordo-comum",
+    "c": 1
+  },
+  {
+    "id": 313,
+    "area": 2,
+    "q": "Qual das espécies de tordos é sedentária?",
+    "a1": "Tordo-comum",
+    "a2": "Tordo-ruivo",
+    "a3": "Tordeia",
+    "c": 3
+  },
+  {
+    "id": 314,
+    "area": 2,
+    "q": "Qual das seguintes espécies de tordos se pode identificar, em voo, por apresentar a parte inferior das asas de cor branca?",
+    "a1": "Tordo-ruivo",
+    "a2": "Tordeia",
+    "a3": "Tordo-comum",
+    "c": 2
+  },
+  {
+    "id": 315,
+    "area": 2,
+    "q": "O habitat dos tordos, está geralmente ligado a:",
+    "a1": "Zonas arborizadas ou às suas orlas",
+    "a2": "Zonas húmidas ou às suas orlas",
+    "a3": "Zonas cerealíferas ou às suas orlas",
+    "c": 1
+  },
+  {
+    "id": 316,
+    "area": 2,
+    "q": "O tordo-zornal e o tordo-ruivo são aves invernantes em Portugal que nidificam:",
+    "a1": "Em países do Sul da Europa",
+    "a2": "Em países do Norte da Europa",
+    "a3": "Em países do Norte de África",
+    "c": 2
+  },
+  {
+    "id": 317,
+    "area": 2,
+    "q": "Indique qual a frase correta:",
+    "a1": "Os saca-rabos têm uma alimentação essencialmente à base de coelho-bravo",
+    "a2": "Os perdigotos têm uma alimentação semelhante à da perdiz adulta",
+    "a3": "Os tordos têm uma alimentação baseada em invertebrados e frutos",
+    "c": 3
+  },
+  {
+    "id": 318,
+    "area": 2,
+    "q": "Os tordos encontram-se com frequência em:",
+    "a1": "Terrenos alagadiços",
+    "a2": "Grandes planícies cultivadas",
+    "a3": "Zonas arborizadas ou nas suas orlas",
+    "c": 3
+  },
+  {
+    "id": 319,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Gralha-preta",
+    "a2": "Melro",
+    "a3": "Estorninho-malhado",
+    "c": 1,
+    "img": 319
+  },
+  {
+    "id": 320,
+    "area": 2,
+    "q": "A seguinte figura representa:",
+    "a1": "Pega-rabuda",
+    "a2": "Gaio",
+    "a3": "Melro",
+    "c": 2,
+    "img": 320
+  },
+  {
+    "id": 321,
+    "area": 3,
+    "q": "O principal efeito das aves de rapina sobre as presas em geral e a caça em particular:",
+    "a1": "É de extermínio",
+    "a2": "É de seleção",
+    "a3": "É insignificante",
+    "c": 2
+  },
+  {
+    "id": 322,
+    "area": 3,
+    "q": "Qual das frases está incorreta?",
+    "a1": "O açor é uma ave de rapina diurna",
+    "a2": "O grifo é um necrófago",
+    "a3": "A coruja-do-mato é uma ave de rapina diurna",
+    "c": 3
+  },
+  {
+    "id": 323,
+    "area": 3,
+    "q": "Qual dos seguintes grupos é composto só por rapinas diurnas?",
+    "a1": "Abutres, águias e mochos",
+    "a2": "Bufos, corujas e abutres",
+    "a3": "Milhafres, falcões e peneireiros",
+    "c": 3
+  },
+  {
+    "id": 324,
+    "area": 3,
+    "q": "Qual das frases está correta?",
+    "a1": "As aves de rapina são importantes para a caça e para a agricultura",
+    "a2": "As aves de rapina são um fator de desequilíbrio nas populações animais",
+    "a3": "As aves de rapina são o principal fator de diminuição da caça",
+    "c": 1
+  },
+  {
+    "id": 325,
+    "area": 3,
+    "q": "Em termos alimentares, o lince-ibérico é uma espécie:",
+    "a1": "Exclusivamente insectívora",
+    "a2": "Exclusivamente carnívora",
+    "a3": "Omnívora",
+    "c": 2
+  },
+  {
+    "id": 326,
+    "area": 3,
+    "q": "A alimentação do lince-ibérico baseia-se em:",
+    "a1": "Coelhos-bravos",
+    "a2": "Lebres",
+    "a3": "Perdizes",
+    "c": 1
+  },
+  {
+    "id": 327,
+    "area": 3,
+    "q": "O lince-ibérico é um animal territorial. Cada animal vive numa área individual que oscila:",
+    "a1": "Entre 300 e 500 hectares",
+    "a2": "Entre 500 e 800 hectares",
+    "a3": "Entre 700 e 900 hectares",
+    "c": 2
+  },
+  {
+    "id": 328,
+    "area": 3,
+    "q": "Em Portugal, a abetarda é uma ave:",
+    "a1": "Residente",
+    "a2": "Migradora de inverno",
+    "a3": "Migradora de verão",
+    "c": 1
+  },
+  {
+    "id": 329,
+    "area": 3,
+    "q": "A abetarda pode ser observada:",
+    "a1": "Nas zonas rochosas e muito declivosas",
+    "a2": "Nas planícies cerealíferas abertas",
+    "a3": "Nas zonas densamente arborizadas",
+    "c": 2
+  },
+  {
+    "id": 330,
+    "area": 3,
+    "q": "Qual das afirmações está correta?",
+    "a1": "A abetarda é uma espécie cinegética embora não seja permitida a sua caça",
+    "a2": "As aves de rapina são importantes para a caça e para a agricultura",
+    "a3": "As espécies que não constam do calendário venatório são consideradas protegidas",
+    "c": 2
+  },
+  {
+    "id": 331,
+    "area": 3,
+    "q": "A abetarda:",
+    "a1": "É uma espécie cinegética e pode ser caçada de outubro a dezembro",
+    "a2": "Não é uma espécie cinegética",
+    "a3": "É uma espécie cinegética e pode ser caçada nas condições definidas em edital do Instituto de Conservação da Natureza e das Florestas",
+    "c": 2
+  },
+  {
+    "id": 332,
+    "area": 3,
+    "q": "Durante a maior parte do ano, as abetardas mantêm-se normalmente:",
+    "a1": "Em bandos separados por sexo",
+    "a2": "Em casais",
+    "a3": "Em bandos com exemplares dos dois sexos",
+    "c": 1
+  },
+  {
+    "id": 333,
+    "area": 3,
+    "q": "O lince-ibérico é:",
+    "a1": "Uma espécie de caça maior",
+    "a2": "Uma espécie de caça menor",
+    "a3": "Uma espécie não cinegética",
+    "c": 3
+  },
+  {
+    "id": 334,
+    "area": 3,
+    "q": "O habitat do lince-ibérico é tipicamente constituído por:",
+    "a1": "Matagais densos, em áreas de escassa influência humana",
+    "a2": "Zonas cerealíferas, entrecortadas por bosques de árvores de folha caduca",
+    "a3": "Terrenos muito acidentados, entrecortados com áreas cultivadas",
+    "c": 1
+  },
+  {
+    "id": 335,
+    "area": 3,
+    "q": "As aves de rapina merecem o estatuto de espécies integralmente protegidas, pelo que:",
+    "a1": "Só podem ser caçadas com autorização expressa do ICNF",
+    "a2": "Podem ser caçadas sempre que provoquem prejuízos na agricultura",
+    "a3": "Nunca podem ser caçadas",
+    "c": 3
+  },
+  {
+    "id": 336,
+    "area": 3,
+    "q": "A abundância e diversidade das aves de rapina são indicadores seguros de que uma região:",
+    "a1": "Possui comunidades animais ricas e sãs",
+    "a2": "Possui uma elevada degradação do habitat",
+    "a3": "Possui fraca densidade das populações presa",
+    "c": 1
+  },
+  {
+    "id": 337,
+    "area": 3,
+    "q": "Em que situação pode ser autorizada a caça à águia-pesqueira?",
+    "a1": "Quando se pretende utilizar em cetraria",
+    "a2": "Desde que tenha carta de caçador de cetreiro",
+    "a3": "Nunca",
+    "c": 3
+  },
+  {
+    "id": 338,
+    "area": 3,
+    "q": "Qual das frases está correta?",
+    "a1": "As aves de rapina capturam, preferencialmente, animais velhos e doentes, contribuindo para a sanidade das populações",
+    "a2": "As aves de rapina exterminam a caça",
+    "a3": "A degradação do habitat provoca o aumento das populações de aves de rapina",
+    "c": 1
+  },
+  {
+    "id": 339,
+    "area": 3,
+    "q": "Qual das espécies mencionadas não é cinegética?",
+    "a1": "O gaio",
+    "a2": "O melro",
+    "a3": "O gavião",
+    "c": 3
+  },
+  {
+    "id": 340,
+    "area": 3,
+    "q": "Qual das espécies abaixo mencionadas não é cinegética?",
+    "a1": "Abibe",
+    "a2": "Saca-rabos",
+    "a3": "Melro",
+    "c": 1
+  },
+  {
+    "id": 341,
+    "area": 3,
+    "q": "Indique qual a situação em que se pode caçar uma perdiz-cinzenta ou charrela?",
+    "a1": "Nas condições definidas em edital do Instituto da Conservação da Natureza e das Florestas",
+    "a2": "Em terrenos cinegéticos ordenados",
+    "a3": "Em nenhuma situação",
+    "c": 3
+  },
+  {
+    "id": 342,
+    "area": 3,
+    "q": "A qual destas espécies não pode ser autorizada a sua caça?",
+    "a1": "Pato-trombeteiro",
+    "a2": "Tarambola-dourada",
+    "a3": "Tarambola-prateada",
+    "c": 3
+  },
+  {
+    "id": 343,
+    "area": 3,
+    "q": "Quando se pode caçar um açor?",
+    "a1": "Quando se pretende fazer criação em cativeiro",
+    "a2": "Quando se pretende praticar cetraria",
+    "a3": "Nunca se pode caçar",
+    "c": 3
+  },
+  {
+    "id": 344,
+    "area": 3,
+    "q": "Qual das espécies mencionadas não é cinegética?",
+    "a1": "Pega",
+    "a2": "Gaio",
+    "a3": "Abetarda",
+    "c": 3
+  },
+  {
+    "id": 345,
+    "area": 3,
+    "q": "Indique qual a situação em que se pode capturar uma ave de rapina?",
+    "a1": "Quando se pretende utilizar em cetraria",
+    "a2": "Nenhuma",
+    "a3": "Desde que se tenha carta de cetreiro",
+    "c": 2
+  },
+  {
+    "id": 346,
+    "area": 3,
+    "q": "Qual das espécies abaixo mencionadas não é cinegética?",
+    "a1": "Muflão",
+    "a2": "Texugo",
+    "a3": "Corço",
+    "c": 2
+  },
+  {
+    "id": 347,
+    "area": 3,
+    "q": "Qual das seguintes espécies não pode ser caçada?",
+    "a1": "Muflão",
+    "a2": "Gamo",
+    "a3": "Charrela ou perdiz-cinzenta",
+    "c": 3
+  },
+  {
+    "id": 348,
+    "area": 3,
+    "q": "As aves de rapina podem ser caçadas?",
+    "a1": "Não",
+    "a2": "Sim, desde que constem na portaria do calendário venatório",
+    "a3": "Sim, com uma autorização do Instituto de Conservação da Natureza e das Florestas caso provoquem prejuízos",
+    "c": 1
+  },
+  {
+    "id": 349,
+    "area": 3,
+    "q": "A abetarda:",
+    "a1": "É uma espécie cinegética cuja caça pode ser autorizada de outubro a dezembro",
+    "a2": "Não é uma espécie cinegética",
+    "a3": "É uma espécie cinegética e pode ser caçada nas condições definidas em edital do Instituto de Conservação da Natureza e das Florestas",
+    "c": 2
+  },
+  {
+    "id": 350,
+    "area": 3,
+    "q": "Normalmente as aves de rapina têm sobre as populações de espécies cinegéticas de que se alimentam:",
+    "a1": "Um efeito de seleção tornando-as mais saudáveis",
+    "a2": "Um efeito prejudicial, contribuindo para o aumento de doenças",
+    "a3": "Um efeito prejudicial, porque reduzem fortemente as populações cinegéticas",
+    "c": 1
+  },
+  {
+    "id": 351,
+    "area": 3,
+    "q": "Qual das espécies mencionadas não é cinegética?",
+    "a1": "Pato branco",
+    "a2": "Piadeira",
+    "a3": "Negrinha",
+    "c": 1
+  },
+  {
+    "id": 352,
+    "area": 3,
+    "q": "As aves de rapina alimentam-se preferencialmente de:",
+    "a1": "Animais mais robustos reduzindo substancialmente as populações",
+    "a2": "Presas mais saudáveis e robustas",
+    "a3": "Presas debilitadas contribuindo assim para populações mais saudáveis",
+    "c": 3
+  },
+  {
+    "id": 353,
+    "area": 3,
+    "q": "“As aves de rapina são importantes para a caça” é uma afirmação:",
+    "a1": "Falsa, porque as aves de rapina diminuem drasticamente as populações cinegéticas",
+    "a2": "Falsa, porque as aves de rapina não interferem nas populações das espécies cinegéticas",
+    "a3": "Verdadeiras, porque capturam preferencialmente animais doentes e velhos contribuindo para a sanidade das populações",
+    "c": 3
+  },
+  {
+    "id": 354,
+    "area": 3,
+    "q": "Qual das seguintes espécies é protegida:",
+    "a1": "Gamo",
+    "a2": "Lince",
+    "a3": "Muflão",
+    "c": 2
+  },
+  {
+    "id": 355,
+    "area": 3,
+    "q": "Qual das seguintes espécies não é cinegética?",
+    "a1": "Gamo",
+    "a2": "Muflão",
+    "a3": "Lince",
+    "c": 3
+  },
+  {
+    "id": 356,
+    "area": 3,
+    "q": "Qual destas espécies não é cinegética?",
+    "a1": "Gaio",
+    "a2": "Lobo",
+    "a3": "Pega-rabuda",
+    "c": 2
+  },
+  {
+    "id": 357,
+    "area": 3,
+    "q": "Durante a maior parte do ano, as abetardas:",
+    "a1": "Vivem em bandos do mesmo sexo",
+    "a2": "Vivem em bandos de ambos os sexos",
+    "a3": "Vivem em casais",
+    "c": 1
+  },
+  {
+    "id": 358,
+    "area": 3,
+    "q": "Qual das seguintes espécies não é cinegética?",
+    "a1": "Arrabio",
+    "a2": "Milhafre",
+    "a3": "Pato-trombeteiro",
+    "c": 2
+  },
+  {
+    "id": 359,
+    "area": 3,
+    "q": "Qual das seguintes espécies é protegida?",
+    "a1": "Águia-imperial",
+    "a2": "Tarambola-dourada",
+    "a3": "Narceja-comum",
+    "c": 1
+  },
+  {
+    "id": 360,
+    "area": 3,
+    "q": "Indique qual o grupo constituído unicamente por espécies cinegéticas:",
+    "a1": "Abetarda, arrabio, tarambola-prateada",
+    "a2": "Perdiz-cinzenta, piadeira, narceja-grande",
+    "a3": "Narceja-galega, pega-rabuda, saca-rabos",
+    "c": 3
+  },
+  {
+    "id": 361,
+    "area": 3,
+    "q": "Em que situação se podem caçar aves de rapina?",
+    "a1": "Quando causam prejuízos na agricultura",
+    "a2": "Quando o Instituto da Conservação da Natureza e das Florestas autoriza",
+    "a3": "Nunca",
+    "c": 3
+  },
+  {
+    "id": 362,
+    "area": 4,
+    "q": "Em que locais é proibido caçar, bem como numa faixa de proteção de 500 metros?",
+    "a1": "Nos povoados",
+    "a2": "Nos terrenos adjacentes a estabelecimentos hospitalares",
+    "a3": "Nos terrenos ocupados com culturas frutícolas",
+    "c": 2
+  },
+  {
+    "id": 363,
+    "area": 4,
+    "q": "Em que locais é proibido caçar, bem como numa faixa de proteção de 500 metros?",
+    "a1": "Nos terrenos adjacentes a instalações militares ou de forças de segurança",
+    "a2": "Das linhas de caminho-de-ferro",
+    "a3": "Nos terrenos ocupados com culturas hortícolas",
+    "c": 1
+  },
+  {
+    "id": 364,
+    "area": 4,
+    "q": "Nas estradas nacionais e linhas de caminho-de-ferro, é:",
+    "a1": "Proibido caçar, bem como numa faixa de proteção de 100 metros",
+    "a2": "Proibido caçar, bem como numa faixa de proteção de 250 metros",
+    "a3": "Proibido caçar, mas só quando existe trânsito",
+    "c": 1
+  },
+  {
+    "id": 365,
+    "area": 4,
+    "q": "É proibido caçar nos povoados e numa faixa de proteção de:",
+    "a1": "500 metros",
+    "a2": "250 metros",
+    "a3": "750 metros",
+    "c": 2
+  },
+  {
+    "id": 366,
+    "area": 4,
+    "q": "Em que locais é proibido caçar, bem como numa faixa de proteção de 500 metros?",
+    "a1": "Estradas nacionais, itinerários principais e autoestradas",
+    "a2": "Praias de banho e terrenos adjacentes a estabelecimentos de ensino",
+    "a3": "Aeródromos, estradas regionais e estradas municipais",
+    "c": 2
+  },
+  {
+    "id": 367,
+    "area": 4,
+    "q": "Em que locais é proibido caçar, bem como em quaisquer terrenos que os circundem numa faixa de proteção de 100 metros?",
+    "a1": "Nos apiários e pombais devidamente sinalizados",
+    "a2": "Nos aparcamentos de gado devidamente sinalizados",
+    "a3": "Nos olivais e pomares com instalação de rega gota-a-gota",
+    "c": 1
+  },
+  {
+    "id": 368,
+    "area": 4,
+    "q": "É proibido caçar numa faixa de proteção de 500 metros em terrenos adjacentes a:",
+    "a1": "Aeródromos, cemitérios, estradas regionais e estradas municipais",
+    "a2": "Instalações turísticas, parques de campismo e desportivos",
+    "a3": "Áreas de refúgio de caça e aparcamentos de gado devidamente sinalizados",
+    "c": 2
+  },
+  {
+    "id": 369,
+    "area": 4,
+    "q": "É sempre proibido caçar:",
+    "a1": "Nos aeródromos, cemitérios e estradas municipais",
+    "a2": "Nos terrenos ocupados com plantações florestais com altura média superior a 1,50 metros",
+    "a3": "Nos olivais, pomares e vinhas",
+    "c": 1
+  },
+  {
+    "id": 370,
+    "area": 4,
+    "q": "É proibido caçar:",
+    "a1": "A 300 metros das casas de habitação",
+    "a2": "A 250 metros de uma estrada nacional",
+    "a3": "Nos aparcamentos de gado",
+    "c": 3
+  },
+  {
+    "id": 371,
+    "area": 4,
+    "q": "Num aparcamento de gado devidamente sinalizado:",
+    "a1": "É proibido caçar",
+    "a2": "É proibido caçar a menos de 250 metros dos animais",
+    "a3": "É proibido caçar a menos de 100 metros de gado bravo",
+    "c": 1
+  },
+  {
+    "id": 372,
+    "area": 4,
+    "q": "Nos locais abaixo indicados é proibido caçar sem consentimento de quem de direito, mas há um deles que carece obrigatoriamente de sinalização. Qual é?",
+    "a1": "Quintais anexos a casas de habitação",
+    "a2": "Jardins anexos a casas de habitação",
+    "a3": "Zonas de caça",
+    "c": 3
+  },
+  {
+    "id": 373,
+    "area": 4,
+    "q": "Num olival, onde esteja este sinal, pode-se caçar?",
+    "a1": "Não",
+    "a2": "Sim",
+    "a3": "Sim, desde que não tenha azeitona",
+    "c": 1,
+    "img": 14
+  },
+  {
+    "id": 374,
+    "area": 4,
+    "q": "É proibido o exercício da caça numa estrada nacional, bem como numa faixa de proteção de:",
+    "a1": "100 metros",
+    "a2": "250 metros",
+    "a3": "300 metros",
+    "c": 1
+  },
+  {
+    "id": 375,
+    "area": 4,
+    "q": "Este sinal indica:",
+    "a1": "Zona de caça turística",
+    "a2": "Proibição de caçar",
+    "a3": "Aparcamento de gado",
+    "c": 2,
+    "img": 14
+  },
+  {
+    "id": 376,
+    "area": 4,
+    "q": "A partir de que distância de uma escola se pode caçar?",
+    "a1": "150 metros",
+    "a2": "200 metros",
+    "a3": "500 metros",
+    "c": 3
+  },
+  {
+    "id": 377,
+    "area": 4,
+    "q": "É proibido caçar nas áreas percorridas por incêndios bem como numa faixa de 250 metros em redor:",
+    "a1": "Só enquanto dura o incêndio",
+    "a2": "Enquanto dura o incêndio e durante os 30 dias seguintes",
+    "a3": "Enquanto dura o incêndio e durante os 10 dias seguintes",
+    "c": 2
+  },
+  {
+    "id": 378,
+    "area": 4,
+    "q": "Em terrenos cinegéticos não ordenados, na caça de salto uma linha de caçadores não pode incluir mais de:",
+    "a1": "2 caçadores",
+    "a2": "5 caçadores",
+    "a3": "10 Caçadores",
+    "c": 2
+  },
+  {
+    "id": 379,
+    "area": 4,
+    "q": "É proibido caçar nas praias de banho bem como numa faixa de proteção de:",
+    "a1": "500 metros",
+    "a2": "150 metros",
+    "a3": "100 metros",
+    "c": 1
+  },
+  {
+    "id": 380,
+    "area": 4,
+    "q": "A proibição de caçar sem consentimento de quem de direito, só é eficaz e depende de sinalização em que situação?",
+    "a1": "Nos terrenos circundados em toda sua extensão por um muro de 1,5 metros de altura",
+    "a2": "Nos quintais anexos a casas de habitação",
+    "a3": "Nas zonas de caça",
+    "c": 3
+  },
+  {
+    "id": 381,
+    "area": 4,
+    "q": "Qual das afirmações está correta?",
+    "a1": "É permitido caçar a mais de 100 metros das linhas de caminho de ferro",
+    "a2": "É permitido caçar a mais de 100 metros das praias de banho",
+    "a3": "É permitido caçar a mais de 100 metros dos aeroportos",
+    "c": 1
+  },
+  {
+    "id": 382,
+    "area": 4,
+    "q": "É proibido o exercício da caça numa linha de caminho-de-ferro, bem como numa faixa de proteção de:",
+    "a1": "100 metros",
+    "a2": "150 metros",
+    "a3": "200 metros",
+    "c": 1
+  },
+  {
+    "id": 383,
+    "area": 4,
+    "q": "Numa faixa de terreno de 100 metros ao longo das linhas de caminho-de-ferro, o caçador:",
+    "a1": "Nunca pode caçar",
+    "a2": "Pode caçar com consentimento de quem de direito",
+    "a3": "Pode caçar sem arma de fogo",
+    "c": 1
+  },
+  {
+    "id": 384,
+    "area": 4,
+    "q": "Qual das afirmações está correta?",
+    "a1": "É permitido caçar a 250 metros das linhas de caminho-de-ferro",
+    "a2": "É permitido caçar a 250 metros das praias de banho",
+    "a3": "É permitido caçar a 250 metros dos aeroportos",
+    "c": 1
+  },
+  {
+    "id": 385,
+    "area": 4,
+    "q": "Qual das seguintes frases está correta?",
+    "a1": "É crime caçar com uma taxa de álcool no sangue inferior a 1,2 g/l",
+    "a2": "É crime caçar javalis em terrenos cobertos de neve",
+    "a3": "É crime caçar em zonas de caça às quais não se tenha legalmente acesso",
+    "c": 3
+  },
+  {
+    "id": 386,
+    "area": 4,
+    "q": "Constitui crime de caça:",
+    "a1": "Caçar a 50 metros das estradas municipais alcatroadas",
+    "a2": "Utilizar auxiliares fora das condições estabelecidas",
+    "a3": "Utilizar chamarizes na caça aos patos",
+    "c": 2
+  },
+  {
+    "id": 387,
+    "area": 4,
+    "q": "Indique qual das frases está correta:",
+    "a1": "É permitido caçar as espécies que constem do calendário venatório publicado anualmente",
+    "a2": "É permitido caçar todas as espécies classificadas como cinegéticas",
+    "a3": "É permitido caçar qualquer espécie que cause prejuízos na agricultura",
+    "c": 1
+  },
+  {
+    "id": 388,
+    "area": 4,
+    "q": "A utilização de cartuchos carregados com zagalotes:",
+    "a1": "É permitida aos associados das zonas de caça associativas nas batidas às raposas",
+    "a2": "É permitida aos caçadores das zonas de caça municipais nas montarias aos javalis",
+    "a3": "É proibida na caça",
+    "c": 3
+  },
+  {
+    "id": 389,
+    "area": 4,
+    "q": "Os cartuchos carregados com chumbos de diâmetro superior a 4,5 mm, vulgarmente designados por zagalotes:",
+    "a1": "Podem ser utilizados na caça à raposa",
+    "a2": "Não podem ser utilizados na caça",
+    "a3": "Podem ser utilizados na caça ao veado pelo processo de aproximação",
+    "c": 2
+  },
+  {
+    "id": 390,
+    "area": 4,
+    "q": "Na caça às espécies de caça menor sedentária:",
+    "a1": "É proibida a utilização e a detenção de cartuchos carregados com bala",
+    "a2": "É proibida a utilização e a detenção de cartuchos carregados com chumbos",
+    "a3": "É proibida a utilização de cães de caça",
+    "c": 1
+  },
+  {
+    "id": 391,
+    "area": 4,
+    "q": "A utilização de armas semiautomáticas que comportem mais de três munições:",
+    "a1": "É permitida na caça às espécies de caça maior",
+    "a2": "É permitida na caça aos tordos",
+    "a3": "É proibida",
+    "c": 3
+  },
+  {
+    "id": 392,
+    "area": 4,
+    "q": "Na caça às espécies de caça maior:",
+    "a1": "É proibida a utilização de espingardas caçadeiras",
+    "a2": "É proibida a utilização e a detenção de cartuchos carregados com chumbos",
+    "a3": "É proibida a utilização e a detenção de cartuchos carregados com bala",
+    "c": 2
+  },
+  {
+    "id": 393,
+    "area": 4,
+    "q": "Nos olivais é proibido caçar:",
+    "a1": "Sempre",
+    "a2": "Nunca",
+    "a3": "Se estiverem sinalizados com o sinal de proibição de caçar",
+    "c": 3
+  },
+  {
+    "id": 394,
+    "area": 4,
+    "q": "Numa área delimitada por este sinal:",
+    "a1": "Não se pode caçar",
+    "a2": "Pode-se caçar mediante consentimento de quem de direito",
+    "a3": "Pode-se caçar mediante consentimento do presidente da junta de freguesia",
+    "c": 1,
+    "img": 14
+  },
+  {
+    "id": 395,
+    "area": 4,
+    "q": "Qual dos seguintes atos não constitui crime de caça?",
+    "a1": "Caçar espécies não cinegéticas",
+    "a2": "Caçar com uma taxa de álcool no sangue inferior a 1,2 g/l",
+    "a3": "Caçar em áreas de não caça",
+    "c": 2
+  },
+  {
+    "id": 396,
+    "area": 4,
+    "q": "A partir de que distância de uma instalação militar se pode caçar?",
+    "a1": "200 metros",
+    "a2": "250 metros",
+    "a3": "500 metros",
+    "c": 3
+  },
+  {
+    "id": 397,
+    "area": 4,
+    "q": "Num terreno circundado com este sinal, não é permitido:",
+    "a1": "Treinar cães de caça",
+    "a2": "Praticar atividades de caráter cinegético",
+    "a3": "Caçar sem consentimento de quem de direito",
+    "c": 3,
+    "img": 397
+  },
+  {
+    "id": 398,
+    "area": 4,
+    "q": "Indique a frase correta:",
+    "a1": "É permitido caçar num pinhal em que as espécies florestais tenham uma altura média superior a 80cm",
+    "a2": "É permitido caçar num refúgio de caça desde que seja sócio de um clube de caçadores",
+    "a3": "É permitido caçar a menos de 100 metros de uma estrada nacional",
+    "c": 1
+  },
+  {
+    "id": 399,
+    "area": 4,
+    "q": "Num eucaliptal com altura média de 1 metro:",
+    "a1": "É sempre proibido caçar",
+    "a2": "É proibido caçar, desde que o diâmetro do tronco seja inferior a 5 cm",
+    "a3": "É permitido caçar",
+    "c": 3
+  },
+  {
+    "id": 400,
+    "area": 4,
+    "q": "Qual dos seguintes atos constitui crime de caça?",
+    "a1": "Caçar sem licença de caça",
+    "a2": "Caçar em áreas de direito à não caça",
+    "a3": "Caçar sem trazer consigo a carta de caçador",
+    "c": 2
+  },
+  {
+    "id": 401,
+    "area": 4,
+    "q": "É proibido caçar nos olivais?",
+    "a1": "Sim, é sempre proibido",
+    "a2": "Não",
+    "a3": "Só quando sinalizados com o sinal de proibição de caçar",
+    "c": 3
+  },
+  {
+    "id": 402,
+    "area": 4,
+    "q": "Num quintal de uma casa de habitação, bem como numa faixa envolvente de 250 metros, é:",
+    "a1": "Sempre proibido caçar",
+    "a2": "Sempre permitido caçar",
+    "a3": "Proibido caçar sem consentimento de quem de direito",
+    "c": 3
+  },
+  {
+    "id": 403,
+    "area": 4,
+    "q": "Qual das seguintes situações não constitui crime de caça?",
+    "a1": "Caçar com uma taxa de álcool no sangue superior a 1,2g/l",
+    "a2": "Caçar com uma taxa de álcool no sangue inferior a 1,2g/l",
+    "a3": "Caçar com uma taxa de álcool no sangue igual a 1,2g/l",
+    "c": 2
+  },
+  {
+    "id": 404,
+    "area": 4,
+    "q": "É proibido o exercício da caça numa estrada nacional, bem como numa faixa de proteção de:",
+    "a1": "100 metros",
+    "a2": "150 metros",
+    "a3": "200 metros",
+    "c": 1
+  },
+  {
+    "id": 405,
+    "area": 4,
+    "q": "Qual dos seguintes atos não constitui crime de caça?",
+    "a1": "Deter, transportar ou usar furão sem autorização",
+    "a2": "Utilizar auxiliares fora das condições estabelecidas",
+    "a3": "Caçar com uma taxa de álcool no sangue inferior a 1,2g/l",
+    "c": 3
+  },
+  {
+    "id": 406,
+    "area": 4,
+    "q": "Caçar uma espécie não cinegética, é:",
+    "a1": "Contra ordenação grave",
+    "a2": "Crime de caça",
+    "a3": "Conduta negligente",
+    "c": 2
+  },
+  {
+    "id": 407,
+    "area": 4,
+    "q": "Indique em quais dos terrenos a proibição de caçar só se torna eficaz desde que sinalizados:",
+    "a1": "Áreas de refúgio de caça",
+    "a2": "Queimadas e terrenos percorridos por incêndios",
+    "a3": "Instalações turísticas e parques de campismo",
+    "c": 1
+  },
+  {
+    "id": 408,
+    "area": 4,
+    "q": "A 200 metros de uma casa de habitação pode praticar-se o ato venatório?",
+    "a1": "Sim, mas só pelo processo de espera",
+    "a2": "Sim, sem quaisquer restrições",
+    "a3": "Sim, mas só com autorização de quem de direito",
+    "c": 3
+  },
+  {
+    "id": 409,
+    "area": 4,
+    "q": "Constitui crime de caça:",
+    "a1": "Caçar sem ser portador de bilhete de identidade",
+    "a2": "Caçar sem estar habilitado com carta de caçador",
+    "a3": "Caçar a 200 metros de um pombal devidamente sinalizado",
+    "c": 2
+  },
+  {
+    "id": 410,
+    "area": 4,
+    "q": "Constitui crime de caça:",
+    "a1": "Caçar a 50 metros das estradas municipais alcatroadas",
+    "a2": "Utilizar auxiliares fora das condições estabelecidas",
+    "a3": "Utilizar chamarizes na caça aos patos",
+    "c": 2
+  },
+  {
+    "id": 411,
+    "area": 4,
+    "q": "Constitui crime de caça:",
+    "a1": "Abandonar os animais que auxiliam e acompanham o caçador no exercício da caça",
+    "a2": "Caçar patos à espera, até 100 metros dos planos água, depois das 16 horas e até ao pôr-dosol",
+    "a3": "Caçar com uma taxa de álcool no sangue igual a 1,0 g/l",
+    "c": 1
+  },
+  {
+    "id": 412,
+    "area": 4,
+    "q": "A criação em cativeiro de espécies cinegéticas e subespécies não identificadas em portaria é:",
+    "a1": "Proibida",
+    "a2": "Permitida desde que a produção seja para consumo alimentar",
+    "a3": "Permitida desde que a produção se destine a largadas em campos de treino de caça",
+    "c": 1
+  },
+  {
+    "id": 413,
+    "area": 5,
+    "q": "Como é que um caçador pode ter acesso a uma zona de caça municipal?",
+    "a1": "Só se fizer a inscrição prévia e for contemplado em sorteio público",
+    "a2": "Só se for associado da zona de caça municipal",
+    "a3": "Só se for proprietário de terrenos integrados na zona de caça municipal",
+    "c": 1
+  },
+  {
+    "id": 414,
+    "area": 5,
+    "q": "Têm acesso às zonas de caça turísticas:",
+    "a1": "Só os proprietários dos terrenos e seus convidados",
+    "a2": "Só os caçadores estrangeiros, os sócios e seus convidados",
+    "a3": "Todos os caçadores que cumpram as normas privativas de funcionamento das mesmas",
+    "c": 3
+  },
+  {
+    "id": 415,
+    "area": 5,
+    "q": "Têm acesso às zonas de caça associativas:",
+    "a1": "Só os proprietários dos terrenos",
+    "a2": "Só os caçadores estrangeiros",
+    "a3": "Só os caçadores associados e os convidados",
+    "c": 3
+  },
+  {
+    "id": 416,
+    "area": 6,
+    "q": "A caça à lebre pelo processo de batida pode ser permitida apenas:",
+    "a1": "Nos meses de outubro a janeiro",
+    "a2": "Nos meses de janeiro e fevereiro",
+    "a3": "Em zonas de caça",
+    "c": 3
+  },
+  {
+    "id": 417,
+    "area": 6,
+    "q": "A caça à lebre a corricão nos meses de janeiro e fevereiro:",
+    "a1": "É proibida",
+    "a2": "É permitida nas condições definidas em edital do ICNF",
+    "a3": "É permitida nas zonas de caça",
+    "c": 3
+  },
+  {
+    "id": 418,
+    "area": 6,
+    "q": "Em terrenos cinegéticos ordenados quais os processos de caça autorizados para o coelho?",
+    "a1": "De salto, à espera, de batida, a corricão, de cetraria e com furão",
+    "a2": "De salto, de batida, de aproximação, de cetraria e com furão",
+    "a3": "De salto, à espera, de batida, a corricão, de aproximação e com furão",
+    "c": 1
+  },
+  {
+    "id": 419,
+    "area": 6,
+    "q": "O processo de caça “de aproximação” é permitido na caça:",
+    "a1": "Só às espécies de caça menor sedentárias",
+    "a2": "Só às espécies de caça menor aquáticas",
+    "a3": "Só às espécies de caça maior",
+    "c": 3
+  },
+  {
+    "id": 420,
+    "area": 6,
+    "q": "A caça às narcejas pelo processo de cetraria:",
+    "a1": "É permitida nos meses de outubro a fevereiro",
+    "a2": "É permitida nos meses de janeiro e fevereiro, mas só nas zonas de caça",
+    "a3": "É proibida",
+    "c": 3
+  },
+  {
+    "id": 421,
+    "area": 6,
+    "q": "Qual dos processos de caça é proibido na caça às espécies de caça menor?",
+    "a1": "De salto",
+    "a2": "De aproximação",
+    "a3": "De batida",
+    "c": 2
+  },
+  {
+    "id": 422,
+    "area": 6,
+    "q": "Qual dos seguintes processos de caça é proibido na caça ao javali?",
+    "a1": "À espera",
+    "a2": "De aproximação",
+    "a3": "A corricão",
+    "c": 3
+  },
+  {
+    "id": 423,
+    "area": 6,
+    "q": "Qual o limite o máximo do período venatório em que pode ser autorizada a caça à lebre?",
+    "a1": "Setembro a fevereiro",
+    "a2": "Setembro a dezembro",
+    "a3": "Outubro a dezembro",
+    "c": 1
+  },
+  {
+    "id": 424,
+    "area": 6,
+    "q": "Em terrenos cinegéticos ordenados, no mês de agosto, pode ser autorizada a caça à rola por qual dos seguintes processos?",
+    "a1": "De salto",
+    "a2": "À espera",
+    "a3": "Cetraria",
+    "c": 2
+  },
+  {
+    "id": 425,
+    "area": 6,
+    "q": "Qual o limite máximo do período venatório em que pode ser autorizada a caça ao estorninho-malhado?",
+    "a1": "De outubro a fevereiro",
+    "a2": "De dezembro a fevereiro",
+    "a3": "De outubro a março",
+    "c": 1
+  },
+  {
+    "id": 426,
+    "area": 6,
+    "q": "Em janeiro e fevereiro pode ser autorizada a caça à lebre em zonas de caça por qual dos seguintes processos:",
+    "a1": "De batida",
+    "a2": "A corricão",
+    "a3": "À espera",
+    "c": 2
+  },
+  {
+    "id": 427,
+    "area": 6,
+    "q": "As montarias aos javalis podem ser realizadas:",
+    "a1": "Só em terrenos cinegéticos ordenados",
+    "a2": "Em terrenos cinegéticos não ordenados todo o ano",
+    "a3": "Em terrenos cinegéticos não ordenados, de outubro a fevereiro nos locais e condições definidos em edital do Instituto de Conservação da Natureza e das Florestas",
+    "c": 3
+  },
+  {
+    "id": 428,
+    "area": 6,
+    "q": "Qual o limite máximo do período venatório em que pode ser autorizada a caça ao pombo-bravo?",
+    "a1": "Agosto a janeiro",
+    "a2": "Setembro a fevereiro",
+    "a3": "Agosto a fevereiro",
+    "c": 3
+  },
+  {
+    "id": 429,
+    "area": 6,
+    "q": "Em zonas de caça pode ser autorizada a caça de batida:",
+    "a1": "À perdiz",
+    "a2": "À codorniz",
+    "a3": "À tarambola-dourada",
+    "c": 1
+  },
+  {
+    "id": 430,
+    "area": 6,
+    "q": "Qual o limite máximo do período venatório em que pode ser autorizada a caça à codorniz?",
+    "a1": "De agosto a outubro",
+    "a2": "De agosto a dezembro",
+    "a3": "De setembro a dezembro",
+    "c": 3
+  },
+  {
+    "id": 431,
+    "area": 6,
+    "q": "Dos processos abaixo indicados qual não pode ser usado na caça à perdiz?",
+    "a1": "De salto",
+    "a2": "À espera",
+    "a3": "Cetraria",
+    "c": 2
+  },
+  {
+    "id": 432,
+    "area": 6,
+    "q": "Quais os processos de caça autorizados na caça às narcejas?",
+    "a1": "De salto e de cetraria",
+    "a2": "De salto e à espera",
+    "a3": "De salto e de batida",
+    "c": 2
+  },
+  {
+    "id": 433,
+    "area": 6,
+    "q": "A caça às rolas pode ser exercida pelo processo:",
+    "a1": "De salto",
+    "a2": "De espera",
+    "a3": "De cetraria",
+    "c": 2
+  },
+  {
+    "id": 434,
+    "area": 6,
+    "q": "Qual o limite máximo do período venatório em que pode ser autorizada a caça ao coelho?",
+    "a1": "Outubro a dezembro",
+    "a2": "Setembro a dezembro",
+    "a3": "Outubro a fevereiro",
+    "c": 2
+  },
+  {
+    "id": 435,
+    "area": 6,
+    "q": "Nos meses de janeiro e fevereiro a caça à lebre pode ser exercida a corricão:",
+    "a1": "Só em zonas de caça",
+    "a2": "Nos locais indicados em edital do Instituto de Conservação da Natureza e das Florestas",
+    "a3": "Em todos os locais",
+    "c": 1
+  },
+  {
+    "id": 436,
+    "area": 6,
+    "q": "Nos terrenos cinegéticos não ordenados, qual é a espécie que em janeiro e fevereiro se pode caçar aos sábados pelo processo de batida, desde que nos locais e condições definidas em edital do Instituto de Conservação da Natureza e das Florestas:",
+    "a1": "Lebre",
+    "a2": "Coelho",
+    "a3": "Saca-rabos",
+    "c": 3
+  },
+  {
+    "id": 437,
+    "area": 6,
+    "q": "Um grupo de caçadores que, em dezembro, caça à raposa de batida em terrenos não ordenados:",
+    "a1": "Está a proceder corretamente",
+    "a2": "Não está a proceder corretamente porque só se pode caçar de batida à raposa, em terrenos não ordenados, nos meses de janeiro e fevereiro",
+    "a3": "Não está a proceder corretamente porque não se pode caçar de batida em terrenos não ordenados",
+    "c": 2
+  },
+  {
+    "id": 438,
+    "area": 6,
+    "q": "Qual o limite máximo do período venatório em que pode ser autorizada a caça aos tordos?",
+    "a1": "Outubro a dezembro",
+    "a2": "Setembro a dezembro",
+    "a3": "Outubro a fevereiro",
+    "c": 3
+  },
+  {
+    "id": 439,
+    "area": 6,
+    "q": "Em janeiro, em terrenos cinegéticos não ordenados, pode ser autorizada a caça às narcejas de salto?",
+    "a1": "Não, porque em janeiro não se pode caçar narcejas",
+    "a2": "Não, porque o processo de salto é proibido",
+    "a3": "Sim, nos locais e condições definidas por edital do Instituto de Conservação da Natureza e das Florestas",
+    "c": 3
+  },
+  {
+    "id": 440,
+    "area": 6,
+    "q": "Qual o limite máximo do período venatório em que pode ser autorizada a caça de batida ao javali?",
+    "a1": "Outubro a dezembro",
+    "a2": "Outubro a janeiro",
+    "a3": "Outubro a fevereiro",
+    "c": 3
+  },
+  {
+    "id": 441,
+    "area": 6,
+    "q": "Um caçador, no mês de agosto, abateu 10 codornizes pelo processo de salto. Que infração cometeu?",
+    "a1": "Nenhuma",
+    "a2": "Utilizou um processo não autorizado",
+    "a3": "Caçou fora do período venatório da espécie",
+    "c": 3
+  },
+  {
+    "id": 442,
+    "area": 6,
+    "q": "Um caçador, no mês de agosto, numa zona de caça, abateu 1 pato pelo processo de salto. Que infração cometeu?",
+    "a1": "Nenhuma",
+    "a2": "Utilizou um processo não autorizado",
+    "a3": "Caçou fora do período venatório da espécie",
+    "c": 1
+  },
+  {
+    "id": 443,
+    "area": 6,
+    "q": "No mês de agosto, em terrenos não ordenados, pode ser autorizada a caça à espera aos patos?",
+    "a1": "Sim, nos locais e condições definidos em edital do Instituto de Conservação da Natureza e das Florestas",
+    "a2": "Não, porque em Agosto não pode ser autorizada a caça aos patos",
+    "a3": "Não, porque não se podem caçar patos de espera",
+    "c": 1
+  },
+  {
+    "id": 444,
+    "area": 6,
+    "q": "Um caçador, no mês de junho, numa zona de caça, caçou 1 javali pelo processo de aproximação. Que infração cometeu?",
+    "a1": "Utilizou um processo não autorizado",
+    "a2": "Caçou fora do período venatório da espécie",
+    "a3": "Nenhuma",
+    "c": 3
+  },
+  {
+    "id": 445,
+    "area": 6,
+    "q": "Pode-se caçar aos coelhos pelo processo de batida?",
+    "a1": "Sim, mas só nas condições e nos locais definidos por edital do Instituto de Conservação da Natureza e das Florestas",
+    "a2": "Sim, mas só nos meses de agosto e novembro",
+    "a3": "Sim, mas só em zonas de caça, desde que previsto no Plano de Ordenamento e Exploração Cinegética (POEC) ou Plano de Gestão (PG) devidamente aprovado",
+    "c": 3
+  },
+  {
+    "id": 446,
+    "area": 6,
+    "q": "Indique qual das espécies referidas é proibido caçar a menos de 100 metros de pontos de água?",
+    "a1": "Rola",
+    "a2": "Narcejas",
+    "a3": "Codorniz",
+    "c": 1
+  },
+  {
+    "id": 447,
+    "area": 6,
+    "q": "É permitido caçar javalis pelo processo de aproximação?",
+    "a1": "Sim, mas só em terrenos cinegéticos ordenados",
+    "a2": "Sim, mas só em terrenos cinegéticos não ordenados",
+    "a3": "Não, porque é um processo proibido para o javali",
+    "c": 1
+  },
+  {
+    "id": 448,
+    "area": 6,
+    "q": "A raposa pode ser caçada de batida em terrenos cinegéticos não ordenados. Indique em qual dos seguintes períodos o processo de caça referido pode ser autorizado para esta espécie:",
+    "a1": "Outubro a fevereiro",
+    "a2": "Janeiro e fevereiro, nas condições e nos locais definidos em edital do Instituto de Conservação da Natureza e das Florestas",
+    "a3": "Todo o ano",
+    "c": 2
+  },
+  {
+    "id": 449,
+    "area": 6,
+    "q": "Qual o limite máximo do período venatório em que pode ser autorizada a caça de salto ao javali em terrenos ordenados:",
+    "a1": "Outubro a dezembro",
+    "a2": "Outubro a janeiro",
+    "a3": "Outubro a fevereiro",
+    "c": 3
+  },
+  {
+    "id": 450,
+    "area": 6,
+    "q": "Qual o intervalo máximo do período venatório ao pombo-da-rocha?",
+    "a1": "Outubro a dezembro",
+    "a2": "Agosto a fevereiro",
+    "a3": "Agosto a dezembro",
+    "c": 3
+  },
+  {
+    "id": 451,
+    "area": 6,
+    "q": "Qual o intervalo máximo do período venatório ao pato-real?",
+    "a1": "Outubro a fevereiro",
+    "a2": "Setembro a fevereiro",
+    "a3": "Agosto a janeiro",
+    "c": 3
+  },
+  {
+    "id": 452,
+    "area": 6,
+    "q": "O pombo-da-rocha pode ser caçado:",
+    "a1": "Em todo o País",
+    "a2": "Só nos municípios definidos em portaria",
+    "a3": "Só em zonas de caça",
+    "c": 2
+  },
+  {
+    "id": 453,
+    "area": 6,
+    "q": "Na caça à codorniz os processos de caça autorizados são:",
+    "a1": "De salto e de cetraria",
+    "a2": "De salto e à espera",
+    "a3": "De salto e de aproximação",
+    "c": 1
+  },
+  {
+    "id": 454,
+    "area": 6,
+    "q": "Nos meses de janeiro e fevereiro a caça à lebre pode ser exercida a corricão:",
+    "a1": "Só em zonas de caça",
+    "a2": "Nos locais indicados em edital do Instituto de Conservação da Natureza e das Florestas",
+    "a3": "Em todos os locais",
+    "c": 1
+  },
+  {
+    "id": 455,
+    "area": 6,
+    "q": "Em terrenos não ordenados, quais os processos de caça autorizados na caça à perdizvermelha?",
+    "a1": "De salto e de batida",
+    "a2": "De salto e de cetraria",
+    "a3": "De salto e à espera",
+    "c": 2
+  },
+  {
+    "id": 456,
+    "area": 6,
+    "q": "Qual dos processos de caça à perdiz-vermelha é autorizado só em terrenos ordenados?",
+    "a1": "De cetraria",
+    "a2": "De batida",
+    "a3": "À espera",
+    "c": 2
+  },
+  {
+    "id": 457,
+    "area": 6,
+    "q": "Qual a afirmação correta relativamente à codorniz:",
+    "a1": "O limite máximo do período venatório é de agosto a novembro",
+    "a2": "Em terrenos ordenados, em setembro, pode caçar-se apenas de salto",
+    "a3": "O limite máximo do período venatório é de setembro a dezembro",
+    "c": 3
+  },
+  {
+    "id": 458,
+    "area": 6,
+    "q": "Em zonas de caça, a caça à galinhola pelo processo de espera:",
+    "a1": "É permitida, desde que conste do plano de ordenamento e exploração cinegética",
+    "a2": "É permitida só durante os meses de janeiro e fevereiro",
+    "a3": "Não é permitida",
+    "c": 3
+  },
+  {
+    "id": 459,
+    "area": 6,
+    "q": "Em terrenos cinegéticos ordenados a caça a espécies de caça maior é permitida:",
+    "a1": "Só de agosto a dezembro",
+    "a2": "Só de agosto a fevereiro",
+    "a3": "Todo o ano",
+    "c": 3
+  },
+  {
+    "id": 460,
+    "area": 6,
+    "q": "Em terrenos cinegéticos não ordenados, qual o limite máximo do período venatório em que pode ser autorizada a caça à raposa, pelo processo de salto?",
+    "a1": "De agosto a outubro",
+    "a2": "De outubro a dezembro",
+    "a3": "De outubro a janeiro",
+    "c": 2
+  },
+  {
+    "id": 461,
+    "area": 6,
+    "q": "Em terrenos cinegéticos ordenados a caça à galinhola pode ser permitida:",
+    "a1": "De salto, de outubro a fevereiro",
+    "a2": "À espera, de novembro a dezembro",
+    "a3": "De salto e à espera, de outubro a fevereiro",
+    "c": 1
+  },
+  {
+    "id": 462,
+    "area": 6,
+    "q": "Qual o limite máximo do período venatório em que pode ser autorizada a caça à perdiz-vermelha?",
+    "a1": "De agosto a fevereiro",
+    "a2": "De setembro a dezembro",
+    "a3": "De outubro a janeiro",
+    "c": 3
+  },
+  {
+    "id": 463,
+    "area": 7,
+    "q": "O Arqueiro ou Besteiro, ao disparar a um animal, deve encontrar-se a uma distância:",
+    "a1": "Inferior a 30 metros",
+    "a2": "Superior a 30 metros",
+    "a3": "Superior a 40 metros",
+    "c": 1
+  },
+  {
+    "id": 464,
+    "area": 7,
+    "q": "O Arqueiro ou Besteiro deve disparar sobre o animal, apontando:",
+    "a1": "À espinal medula",
+    "a2": "Ao cérebro",
+    "a3": "À cavidade torácica",
+    "c": 3
+  },
+  {
+    "id": 465,
+    "area": 7,
+    "q": "Fora do exercício da caça, as pontas das flechas ou virotões para caça maior devem:",
+    "a1": "Ser acondicionadas na aljava",
+    "a2": "Embrulhadas em papel",
+    "a3": "Estar sempre visíveis",
+    "c": 1
+  },
+  {
+    "id": 466,
+    "area": 7,
+    "q": "O caçador no ato venatório, ao utilizar arco ou besta, deve:",
+    "a1": "Armar o arco ou besta, próximo do local do disparo",
+    "a2": "Ter o arco ou besta pronto a disparar",
+    "a3": "Transportar sempre duas flechas ou virotões na mão",
+    "c": 1
+  },
+  {
+    "id": 467,
+    "area": 7,
+    "q": "O caçador só poderá utilizar besta, na caça maior, se esta possuir:",
+    "a1": "Patilha de segurança",
+    "a2": "Potência inferior a 125 libras",
+    "a3": "Potência inferior a 100 libras",
+    "c": 1
+  },
+  {
+    "id": 468,
+    "area": 7,
+    "q": "Na caça com arco ou besta qual o tipo de ponta permitido na caça maior?",
+    "a1": "Com barbela",
+    "a2": "Com lâminas",
+    "a3": "Ogival",
+    "c": 2
+  },
+  {
+    "id": 469,
+    "area": 7,
+    "q": "Fora do exercício da caça o transporte de arco ou besta deve efetuar-se em estojo próprio, com exceção dos casos de deslocações entre locais de espera, desde que a distância entre eles não exceda:",
+    "a1": "100 metros",
+    "a2": "150 metros",
+    "a3": "200 metros",
+    "c": 1
+  },
+  {
+    "id": 470,
+    "area": 7,
+    "q": "O caçador ao preparar o disparo com arco ou besta verifica que a presa pressentiu a sua presença e afasta-se pelo que deve:",
+    "a1": "Disparar correndo a mão",
+    "a2": "Esperar que o animal se imobilize",
+    "a3": "Disparar calculando o ponto de cruzamento do animal com o projétil",
+    "c": 2
+  },
+  {
+    "id": 471,
+    "area": 7,
+    "q": "No exercício da caça com arco ou besta qual a largura mínima de corte das pontas das flechas ou virotões, a utilizar na caça maior?",
+    "a1": "20 mm",
+    "a2": "22 mm",
+    "a3": "25 mm",
+    "c": 3
+  },
+  {
+    "id": 472,
+    "area": 7,
+    "q": "No exercício da caça com arco ou besta, ao ultrapassar um obstáculo, o caçador deve:",
+    "a1": "Atirar a flecha ou virotão para o outro lado do obstáculo",
+    "a2": "Colocar as flechas ou virotões na aljava",
+    "a3": "Saltar com a flecha ou virotão montado na arma mas sem levar o arco em tensão",
+    "c": 2
+  },
+  {
+    "id": 473,
+    "area": 7,
+    "q": "Na caça com arco ou besta, as pontas das flechas ou virotões a utilizar na caça maior devem ter, no mínimo:",
+    "a1": "Duas farpas",
+    "a2": "Duas lâminas",
+    "a3": "Duas lâminas com barbela",
+    "c": 2
+  },
+  {
+    "id": 474,
+    "area": 7,
+    "q": "Na caça com arco ou besta a partir de uma plataforma elevada deve visar-se:",
+    "a1": "A coluna vertebral, por causar morte instantânea",
+    "a2": "O tórax, por ser o local onde se encontram órgãos vitais",
+    "a3": "O rim, por ser uma zona pouca protegida",
+    "c": 2
+  },
+  {
+    "id": 475,
+    "area": 8,
+    "q": "Nos campos de treino de caça é permitido:",
+    "a1": "Treinar aves de presa",
+    "a2": "Realizar batidas ao javali",
+    "a3": "Treinar cães de caça utilizando espécies não cinegéticas",
+    "c": 1
+  },
+  {
+    "id": 476,
+    "area": 8,
+    "q": "Nos campos de treino de caça qual das seguintes atividades pode ser praticada?",
+    "a1": "Exercício de tiro com arma de fogo em perdizes criadas em cativeiro",
+    "a2": "Montarias aos javalis",
+    "a3": "Caçar espécies cinegéticas da fauna selvagem para treinar aves de presa",
+    "c": 1
+  },
+  {
+    "id": 477,
+    "area": 8,
+    "q": "Diga qual das afirmações está correta?",
+    "a1": "Nos campos de treino os utilizadores devem assegurar a recolha de cartuchos vazios resultantes do exercício do tiro",
+    "a2": "Nos campos de treino os utilizadores não podem utilizar armas de caça",
+    "a3": "Nos campos de treino os utilizadores devem possuir licença de caça",
+    "c": 1
+  },
+  {
+    "id": 478,
+    "area": 8,
+    "q": "Nos campos de treino de caça pode ser autorizada a prática de uma das seguintes atividades:",
+    "a1": "Treino de furões com coelhos mansos",
+    "a2": "Exercício de tiro com besta",
+    "a3": "Treinar cães de caça utilizando espécies cinegéticas silvestres",
+    "c": 2
+  },
+  {
+    "id": 479,
+    "area": 8,
+    "q": "Nos campos de treino de caça, entre outras atividades de carácter venatório, pode ser autorizado:",
+    "a1": "O treino de aves de presa",
+    "a2": "A realização de montarias",
+    "a3": "A realização de batidas às raposas",
+    "c": 1
+  },
+  {
+    "id": 480,
+    "area": 9,
+    "q": "Qual é o cão de caça vulgarmente designado como coelheiro?",
+    "a1": "O podengo pequeno",
+    "a2": "O podengo médio",
+    "a3": "O podengo grande",
+    "c": 2
+  },
+  {
+    "id": 481,
+    "area": 9,
+    "q": "Qual das seguintes raças de cães é indicada para a caça ao javali?",
+    "a1": "O podengo médio",
+    "a2": "O podengo grande",
+    "a3": "O Fox-hound",
+    "c": 2
+  },
+  {
+    "id": 482,
+    "area": 9,
+    "q": "O podengo pequeno e o podengo médio são cães especialmente adaptados à caça de:",
+    "a1": "Perdiz e codorniz",
+    "a2": "Coelho-bravo",
+    "a3": "Patos e galeirão",
+    "c": 2
+  },
+  {
+    "id": 483,
+    "area": 9,
+    "q": "Indique qual das afirmações está correta:",
+    "a1": "O perdigueiro português é a única raça de cães adaptada à caça à perdiz",
+    "a2": "O podengo pequeno é vulgarmente designado por cão coelheiro",
+    "a3": "O beagle é utilizado na caça ao coelho",
+    "c": 3
+  },
+  {
+    "id": 484,
+    "area": 9,
+    "q": "Os baixotes são considerados:",
+    "a1": "Cães de equipagem",
+    "a2": "Cães de pista de sangue de caça maior",
+    "a3": "Cães de parar",
+    "c": 2
+  },
+  {
+    "id": 485,
+    "area": 9,
+    "q": "Os podengos são cães de raça portuguesa adaptados à caça de espécies cinegéticas:",
+    "a1": "De pelo",
+    "a2": "De pena",
+    "a3": "De pelo e de pena",
+    "c": 1
+  },
+  {
+    "id": 486,
+    "area": 9,
+    "q": "Qual das afirmações é correta?",
+    "a1": "O pointer é um cão de porte médio e de pelo liso cor de fogo",
+    "a2": "O coelheiro é um cão de pequeno porte, de pelo liso ou cerdoso",
+    "a3": "O braco alemão é um cão de boa corpulência, de pelo liso ou cerdoso",
+    "c": 3
+  },
+  {
+    "id": 487,
+    "area": 9,
+    "q": "O fox-terrier é especialmente indicado para caçar?",
+    "a1": "Perdiz",
+    "a2": "Raposa",
+    "a3": "Javali",
+    "c": 2
+  },
+  {
+    "id": 488,
+    "area": 9,
+    "q": "Qual das seguintes frases está correta?",
+    "a1": "O pointer está bem adaptado a caçar em terrenos muito dobrados",
+    "a2": "O setter irlandês cobra bem na água e em terra",
+    "a3": "O podengo é um cão adaptado à caça de pena",
+    "c": 2
+  },
+  {
+    "id": 489,
+    "area": 9,
+    "q": "Os Fox-hound são considerados:",
+    "a1": "Cães de equipagem",
+    "a2": "Cães de parar",
+    "a3": "Cães que cobram bem",
+    "c": 1
+  },
+  {
+    "id": 490,
+    "area": 9,
+    "q": "Qual das afirmações é correta?",
+    "a1": "O perdigueiro português, além de “parar”, também cobra bem",
+    "a2": "Os galgos não são considerados cães de caça em Portugal",
+    "a3": "O pointer é um cão de tamanho médio e com pelo comprido",
+    "c": 1
+  },
+  {
+    "id": 491,
+    "area": 9,
+    "q": "O perdigueiro é um cão de raça portuguesa adaptado à caça de espécies cinegéticas de:",
+    "a1": "Pelo",
+    "a2": "Pena",
+    "a3": "Pelo e pena",
+    "c": 2
+  },
+  {
+    "id": 492,
+    "area": 9,
+    "q": "Os baixotes são cães principalmente adequados para:",
+    "a1": "Seguir pistas de sangue de caça maior",
+    "a2": "Perseguir lebres",
+    "a3": "Perseguir perdizes",
+    "c": 1
+  },
+  {
+    "id": 493,
+    "area": 9,
+    "q": "Qual destas raças de cães é a mais indicada para a caça de pena?",
+    "a1": "Podengo médio",
+    "a2": "Podengo pequeno",
+    "a3": "Perdigueiro português",
+    "c": 3
+  },
+  {
+    "id": 494,
+    "area": 9,
+    "q": "Qual das seguintes raças de cães é indicada para a caça ao javali?",
+    "a1": "Podengo grande",
+    "a2": "Fox-houd",
+    "a3": "Beagle",
+    "c": 1
+  },
+  {
+    "id": 495,
+    "area": 9,
+    "q": "Qual das seguintes raças de cães é a mais indicada para a caça de pelo?",
+    "a1": "Braco alemão",
+    "a2": "Podengo médio",
+    "a3": "Pointer",
+    "c": 2
+  },
+  {
+    "id": 496,
+    "area": 9,
+    "q": "Qual das afirmações está correta:",
+    "a1": "O perdigueiro português é a única raça adaptada para a caça à perdiz",
+    "a2": "O epagneul breton cobra bem em terra e na água",
+    "a3": "O terrier destina-se a seguir pistas de sangue de caça maior",
+    "c": 2
+  },
+  {
+    "id": 497,
+    "area": 9,
+    "q": "O podengo médio é um cão mais adaptado para caçar:",
+    "a1": "Ao coelho",
+    "a2": "Ao javali",
+    "a3": "À perdiz-vermelha",
+    "c": 1
+  },
+  {
+    "id": 498,
+    "area": 9,
+    "q": "Indique qual destas raças de cães é a mais indicada para a caça de pena:",
+    "a1": "Beagle",
+    "a2": "Setter inglês",
+    "a3": "Fox-terrier",
+    "c": 2
+  },
+  {
+    "id": 499,
+    "area": 10,
+    "q": "O esmerilhão é um pequeno falcão ideal para caçar:",
+    "a1": "Codornizes",
+    "a2": "coelhos",
+    "a3": "Patos",
+    "c": 1
+  },
+  {
+    "id": 500,
+    "area": 10,
+    "q": "Qual das seguintes afirmações está correta?",
+    "a1": "A alimentação das aves de presa pode ser constituída essencialmente por rações",
+    "a2": "A alimentação das aves de presa deve ser idêntica à que consumiriam no estado selvagem",
+    "a3": "Os alimentos dados às aves de presa não podem ter penas ou pêlos",
+    "c": 2
+  },
+  {
+    "id": 501,
+    "area": 10,
+    "q": "O Açor é uma ave de presa de “baixo-voo”, utilizadas na caça :",
+    "a1": "De pêlo",
+    "a2": "De pena",
+    "a3": "Tanto de pena como de pelo",
+    "c": 3
+  },
+  {
+    "id": 502,
+    "area": 10,
+    "q": "Indique a frase correta:",
+    "a1": "O Açor é a ave clássica da caça em alto-voo",
+    "a2": "O Açor é a ave clássica da caça em baixo-voo",
+    "a3": "O Gavião é a ave clássica da caça em alto-voo",
+    "c": 2
+  },
+  {
+    "id": 503,
+    "area": 10,
+    "q": "As aves de presa de sexo masculino são designadas em cetraria por “terçó”. O “terçó” é:",
+    "a1": "Mais corpulento do que a fêmea",
+    "a2": "Do mesmo tamanho que a fêmea",
+    "a3": "Mais ágil do que a fêmea",
+    "c": 3
+  },
+  {
+    "id": 504,
+    "area": 10,
+    "q": "A condição física de uma ave de presa é avaliada:",
+    "a1": "Pelo peso",
+    "a2": "Pelo tamanho",
+    "a3": "Pelas penas",
+    "c": 1
+  },
+  {
+    "id": 505,
+    "area": 10,
+    "q": "O que é o processo de cetraria?",
+    "a1": "Aquele em que o caçador, utiliza aves de presa para capturar espécies cinegéticas, apenas com o auxílio de cães de caça e com ou sem pau",
+    "a2": "Aquele em que o caçador, utiliza arco ou besta para capturar espécies cinegéticas",
+    "a3": "Aquele em que o caçador, utiliza armadilhas para capturar espécies cinegéticas",
+    "c": 1
+  },
+  {
+    "id": 506,
+    "area": 10,
+    "q": "Na iniciação das aves de presa, o amansamento deve preferencialmente ser realizado:",
+    "a1": "De dia",
+    "a2": "De noite",
+    "a3": "Indiferentemente de noite ou de dia",
+    "c": 2
+  }
+]
